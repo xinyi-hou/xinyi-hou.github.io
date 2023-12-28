@@ -133,11 +133,14 @@ If you would like to reach me, please send an email to <a href="mailto:Yanjie.Zh
   * Adobe Photoshop
   * Adobe Premiere
   * Adobe After Effects
- 
-<img src="http://yanjiezhao96.github.io/images/pic1.jpg" style="zoom:70%">
+
+<br>
+<br>
+<br>
+<img src="http://yanjiezhao96.github.io/images/pic1.jpg" width=70%>
 <center style="font-size:14px;color:#C0C0C0">Photographed in Perth, August 2022</center>  
 <br>
-<br>
+<be>
 <br>
 <center>✨✨✨✨✨✨✨</center>
 <br>
