@@ -19,15 +19,15 @@ redirect_from:
 
 I have completed my PhD from [Monash University](https://www.monash.edu/){:target="_blank"} in September 2023. I will be joining [The Ohio State University (OSU)](https://www.osu.edu/){:target="_blank"} as a Post Doctoral Researcher, working under the supervision of [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/){:target="_blank"}.
 
-In 2019, I graduated from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/){:target="_blank"} with a bachelor's degree. After that, I moved to [Monash University](https://www.monash.edu/){:target="_blank"} to begin my PhD studies. During my PhD studies, my supervisors were [Prof. John Grundy](https://sites.google.com/site/johncgrundy/){:target="_blank"} and [Dr. Li Li](http://lilicoding.github.io/){:target="_blank"}. My research topic, Big Code Augmented Android App Development, seeks to learn from "big code" to handle various programming tasks such as automated API usage recommendation and program patching.
+In 2019, I graduated from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/){:target="_blank"} with a bachelor's degree. After that, I moved to [Monash University](https://www.monash.edu/){:target="_blank"} to begin my PhD studies. During my PhD studies, my supervisors were [Prof. John Grundy](https://sites.google.com/site/johncgrundy/){:target="_blank"} and [Dr. Li Li](http://lilicoding.github.io/){:target="_blank"}. 
 
-If you would like to reach me, please send an email to <a href="mailto:Yanjie.Zhao@monash.edu">Yanjie.Zhao@monash.edu</a>.
+My research interest includes software engineering and software security. Please click the google scholar badge 👉 <a href='https://scholar.google.com/citations?user=7GNtSFMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+If you would like to reach me, please send an email to <a href="mailto:Yanjie.Zhao@monash.edu">carolzhao233@gmail.com</a>.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01*: &nbsp;🎉🎉 Happy new year!
 
 # 📝 Publications 
 
