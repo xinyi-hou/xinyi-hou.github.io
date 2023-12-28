@@ -19,7 +19,7 @@ redirect_from:
 
 I have completed my PhD from [Monash University](https://www.monash.edu/){:target="_blank"} in September 2023. I will be joining [The Ohio State University (OSU)](https://www.osu.edu/){:target="_blank"} as a Post Doctoral Researcher, working under the supervision of [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/){:target="_blank"}.
 
-In 2019, I graduated from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/){:target="_blank"} with a bachelor's degree. After that, I moved to [Monash University](https://www.monash.edu/){:target="_blank"} to begin my PhD studies. During my PhD studies, my supervisors were [Prof. John Grundy](https://sites.google.com/site/johncgrundy/){:target="_blank"} and [Dr. Li Li](http://lilicoding.github.io/){:target="_blank"}. 
+In 2019, I graduated from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/){:target="_blank"} with a bachelor's degree. After that, I moved to [Monash University](https://www.monash.edu/){:target="_blank"} to begin my PhD studies. During my PhD studies, my supervisors were [Prof. John Grundy](https://sites.google.com/site/johncgrundy/){:target="_blank"} and [Prof. Li Li](http://lilicoding.github.io/){:target="_blank"}. 
 
 My research interest includes software engineering and software security.
 If you would like to reach me, please send an email to <a href="mailto:Yanjie.Zhao@monash.edu">carolzhao233@gmail.com</a>.
@@ -94,9 +94,9 @@ If you would like to reach me, please send an email to <a href="mailto:Yanjie.Zh
 
 
 # 📖 Educations
-* 09/2015 - 06/2019, B.Eng., Beĳing University of Posts and Telecommunications, Beijing, China.
-* 07/2019 - 09/2019, Visitor, University of Luxembourg, Luxembourg.
-* 09/2019 - 09/2023, Ph.D., Monash University, Melbourne, Australia.
+* 2015.09 - 2019.06, B.Eng., Beĳing University of Posts and Telecommunications, Beijing, China.
+* 2019.07 - 2019.09, Visitor, University of Luxembourg, Luxembourg.
+* 2019.09 - 2023.09, Ph.D., Monash University, Melbourne, Australia.
 
 
 # 📒 Services
