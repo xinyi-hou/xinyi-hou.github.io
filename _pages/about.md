@@ -35,6 +35,7 @@ If you would like to reach me, please send an email to <a href="mailto:Yanjie.Zh
 
 **(\* Equal Contribution)**
 ## <span style="color:grey">Papers Published During PhD Studies</span> 
+<br>
 
 * **CiD4HMOS: A Solution to HarmonyOS Compatibility Issues**
     > Tianzhi Ma, **Yanjie Zhao**, Li Li, and Liang Liu, **The 38th IEEE/ACM International Conference on Automated Software Engineering, Industry Challenge Track (ASE 2023)** [[Paper](){:target="_blank"}]
