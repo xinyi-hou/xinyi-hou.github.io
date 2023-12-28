@@ -55,7 +55,7 @@ If you would like to reach me, please send an email to <a href="mailto:Yanjie.Zh
     
 
 * **Towards Automatically Repairing Compatibility Issues in Published Android Apps**
-    > **Yanjie Zhao**, Li Li, Kui Liu, and John Grundy, **The 44th International Conference on Software Engineering (ICSE 2022)** [[Paper](http://YanjieZhao96.github.io/files/zhao2022towards.pdf){:target="_blank"}]
+    > **Yanjie Zhao**, Li Li, Kui Liu, and John Grundy, **The 44th International Conference on Software Engineering (ICSE 2022)** [[Paper](http://YanjieZhao96.github.io/files/zhao2022towards.pdf){:target="_blank"}]<span class='show_paper_citations' data='7GNtSFMAAAAJ:2osOgNQ5qMEC'></span>
 
 
 * **A First Look at CI/CD Adoptions in Open-Source Android Apps**
