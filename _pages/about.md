@@ -17,9 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I have completed my PhD from [Monash University](https://www.monash.edu/){:target="_blank"} in September 2023. I will be joining [The Ohio State University (OSU)](https://www.osu.edu/){:target="_blank"} as a Post Doctoral Researcher, working under the supervision of [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/){:target="_blank"}.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+In 2019, I graduated from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/){:target="_blank"} with a bachelor's degree. After that, I moved to [Monash University](https://www.monash.edu/){:target="_blank"} to begin my PhD studies. During my PhD studies, my supervisors were [Prof. John Grundy](https://sites.google.com/site/johncgrundy/){:target="_blank"} and [Dr. Li Li](http://lilicoding.github.io/){:target="_blank"}. My research topic, Big Code Augmented Android App Development, seeks to learn from "big code" to handle various programming tasks such as automated API usage recommendation and program patching.
+
+If you would like to reach me, please send an email to <a href="mailto:Yanjie.Zhao@monash.edu">Yanjie.Zhao@monash.edu</a>.
+
 
 
 # 🔥 News
@@ -28,31 +31,105 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+(\* Equal Contribution)
+## <span style="color:grey">Papers Published During PhD Studies</span> 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+* **CiD4HMOS: A Solution to HarmonyOS Compatibility Issues**
+    > Tianzhi Ma, **Yanjie Zhao**, Li Li, and Liang Liu, **The 38th IEEE/ACM International Conference on Automated Software Engineering, Industry Challenge Track (ASE 2023)** [[Paper](){:target="_blank"}]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+* **Automatically Detecting Incompatible Android APIs**
+    > Pei Liu, **Yanjie Zhao**, Mattia Fazzini, Haipeng Cai, John Grundy, and Li Li, **ACM Transactions on Software Engineering and Methodology (TOSEM), 2023** [[Paper](){:target="_blank"}]
+
+* **Are Mobile Advertisements in Compliance with App’s Age Group?**
+    > **Yanjie Zhao**\*, Tianming Liu\*, Haoyu Wang, Yepang Liu, John Grundy, and Li Li, **The ACM Web Conference (WWW 2023)** [[Paper](){:target="_blank"}]
+
+
+* **Automatically Detecting API-induced Compatibility Issues in Android Apps: A Comparative Analysis (Replicability Study)**
+    > Pei Liu\*, **Yanjie Zhao**\*, Haipeng Cai, Mattia Fazzini, John Grundy, and Li Li, **The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2022)** [[Paper](http://YanjieZhao96.github.io/files/liu2022automatically.pdf){:target="_blank"}]
+
+
+* **APIMatchmaker: Matching the Right APIs for Supporting the Development of Android Apps**
+    > **Yanjie Zhao**, Li Li, Haoyu Wang, Qiang He, and John Grundy, **IEEE Transactions on Software Engineering (TSE), 2022** [[Paper](http://YanjieZhao96.github.io/files/zhao2022apimatchmaker.pdf){:target="_blank"}]
+    
+
+* **Towards Automatically Repairing Compatibility Issues in Published Android Apps**
+    > **Yanjie Zhao**, Li Li, Kui Liu, and John Grundy, **The 44th International Conference on Software Engineering (ICSE 2022)** [[Paper](http://YanjieZhao96.github.io/files/zhao2022towards.pdf){:target="_blank"}]
+
+
+* **A First Look at CI/CD Adoptions in Open-Source Android Apps**
+    > Pei Liu, Xiaoyu Sun, **Yanjie Zhao**, Yonghui Liu, John Grundy, and Li Li, **The 5th International Workshop on Advances in Mobile App Analysis (A-Mobile 2022), co-located with ASE 2022** [[Paper](http://YanjieZhao96.github.io/files/liu2022first.pdf){:target="_blank"}]
+    
+
+* **Mining Android API Usage to Generate Unit Test Cases for Pinpointing Compatibility Issues**
+    > Xiaoyu Sun, Xiao Chen, **Yanjie Zhao**, Pei Liu, John Grundy, and Li Li, **The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022)** [[Paper](http://YanjieZhao96.github.io/files/sun2022mining.pdf){:target="_blank"}]
+
+
+* **Code Implementation Recommendation for Android GUI Components**
+    > **Yanjie Zhao**, Li Li, Xiaoyu Sun, Pei Liu, and John Grundy, **The 44th International Conference on Software Engineering, Demonstrations Track (ICSE 2022)** [[Paper](http://YanjieZhao96.github.io/files/zhao2022code.pdf){:target="_blank"}]
+
+
+* **Anchor: Locating Android Framework-specific Crashing Faults**
+    > Pingfan Kong, Li Li, Jun Gao, Timothée Riom, **Yanjie Zhao**, Tegawendé F. Bissyandé, and Jacques Klein, **Automated Software Engineering Journal (AUSE), 2021** [[Paper](http://YanjieZhao96.github.io/files/kong2021anchor.pdf){:target="_blank"}]
+
+
+* **On the Impact of Sample Duplication in Machine Learning based Android Malware Detection**
+    > **Yanjie Zhao**, Li Li, Haoyu Wang, Haipeng Cai, Tegawendé F. Bissyandé, Jacques Klein, and John Grundy, **ACM Transactions on Software Engineering and Methodology (TOSEM), 2021** [[Paper](http://YanjieZhao96.github.io/files/zhao2021impact.pdf){:target="_blank"}]
+    
+
+* **Icon2Code: Recommending Code Implementations for Android GUI Components**
+    > **Yanjie Zhao**, Li Li, Xiaoyu Sun, Pei Liu, and John Grundy, **Information and Software Technology (IST), 2021** [[Paper](http://YanjieZhao96.github.io/files/zhao2021icon2code.pdf){:target="_blank"}]
+    
+
+* **AndroZooOpen: Collecting Large-scale Open Source Android Apps for the Research Community**
+    > Pei Liu, Li Li, **Yanjie Zhao**, Xiaoyu Sun, and John Grundy, **The 2020 International Conference on Mining Software Repositories, Data Track (MSR 2020)** [[Paper](http://YanjieZhao96.github.io/files/liu2020androzooopen.pdf){:target="_blank"}]
+    
+
+* **Knowledge Graphing Git Repositories: A Preliminary Study**
+    > **Yanjie Zhao**, Haoyu Wang, Lei Ma, Yuxin Liu, Li Li, and John Grundy, **IEEE International Conference on Software Analysis, Evolution and Reengineering, ERA Track (SANER 2019)** [[Paper](http://YanjieZhao96.github.io/files/zhao2019knowledge.pdf){:target="_blank"}]
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+* B.Eng., Beĳing University of Posts and Telecommunications, Beijing, China, 09/2015 - 06/2019.
+* Visitor, University of Luxembourg, Luxembourg, 07/2019 - 09/2019.
+* Ph.D., Monash University, Melbourne, Australia, 09/2019 - 09/2023.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Services
+* PC Member -- The International Symposium on Software Testing and Analysis (ISSTA 2024)
+* Reviewer -- The Web Conference 2024 (WWW 2024)
+* Reviewer -- ACM Transactions on Software Engineering and Methodology (TOSEM)
+* Reviewer -- IEEE Transactions on Software Engineering (TSE)
+* Reviewer -- ACM Computing Surveys (CSUR)
+* Reviewer -- Empirical Software Engineering (EMSE)
+* Junior PC Member -- The Mining Software Repositories conference (MSR 2023)
+* Reviewer -- Journal of Systems and Software (JSS)
+* Reviewer -- IEEE Transactions on Reliability
+* Publicity Chair -- MOBILESoft 2023
+* PC Member -- MOBILESoft 2023, MOBILESoft 2024
+ 
+
+# 🎖 Honors and Awards
+* 2019 - Monash Graduate Scholarship (MGS).
+* 2019 - City of Beijing "Triple-A" Outstanding Student.
+* 2018 - Cyber Security Scholarship of China Internet Development Foundation (one of the 66 award-winning undergraduates nationwide).
+* 2017 - China National Scholarship.
+* 2017 - Meritorious Winner of MCM/ICM.
+* 2017 - First Prize in Beĳing Contest District in CUMCM.
+* 2017 - Second Prize in China National Cryptography Competition.
+* 2017 - Second Prize in Developers Conference of YiBan Development Center of Ministry of Education.
+* 2016 - China National Scholarship.
+ 
+
+# 📒 Skills
+* Reading, writing, and speaking competencies in Mandarin Chinese and English.
+* Academic research, teaching, training, consultation, LATEX typesetting, and publishing.
+* Leisure Interests:
+  * Adobe Photoshop
+  * Adobe Premiere
+  * Adobe After Effects
