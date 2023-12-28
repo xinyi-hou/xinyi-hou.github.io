@@ -31,7 +31,7 @@ If you would like to reach me, please send an email to <a href="mailto:Yanjie.Zh
 
 # 📝 Publications 
 
-(\* Equal Contribution)
+**(\* Equal Contribution)**
 ## <span style="color:grey">Papers Published During PhD Studies</span> 
 
 * **CiD4HMOS: A Solution to HarmonyOS Compatibility Issues**
@@ -89,9 +89,7 @@ If you would like to reach me, please send an email to <a href="mailto:Yanjie.Zh
     > **Yanjie Zhao**, Haoyu Wang, Lei Ma, Yuxin Liu, Li Li, and John Grundy, **IEEE International Conference on Software Analysis, Evolution and Reengineering, ERA Track (SANER 2019)** [[Paper](http://YanjieZhao96.github.io/files/zhao2019knowledge.pdf){:target="_blank"}]
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
 # 📖 Educations
@@ -100,7 +98,7 @@ If you would like to reach me, please send an email to <a href="mailto:Yanjie.Zh
 * Ph.D., Monash University, Melbourne, Australia, 09/2019 - 09/2023.
 
 
-# 💻 Services
+# 📒 Services
 * PC Member -- The International Symposium on Software Testing and Analysis (ISSTA 2024)
 * Reviewer -- The Web Conference 2024 (WWW 2024)
 * Reviewer -- ACM Transactions on Software Engineering and Methodology (TOSEM)
@@ -126,7 +124,7 @@ If you would like to reach me, please send an email to <a href="mailto:Yanjie.Zh
 * 2016 - China National Scholarship.
  
 
-# 📒 Skills
+# 💻 Skills
 * Reading, writing, and speaking competencies in Mandarin Chinese and English.
 * Academic research, teaching, training, consultation, LATEX typesetting, and publishing.
 * Leisure Interests:
