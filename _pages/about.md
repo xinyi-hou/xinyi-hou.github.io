@@ -21,7 +21,7 @@ I have completed my PhD from [Monash University](https://www.monash.edu/){:targe
 
 In 2019, I graduated from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/){:target="_blank"} with a bachelor's degree. After that, I moved to [Monash University](https://www.monash.edu/){:target="_blank"} to begin my PhD studies. During my PhD studies, my supervisors were [Prof. John Grundy](https://sites.google.com/site/johncgrundy/){:target="_blank"} and [Dr. Li Li](http://lilicoding.github.io/){:target="_blank"}. 
 
-My research interest includes software engineering and software security. Please click the google scholar badge 👉 <a href='https://scholar.google.com/citations?user=7GNtSFMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes software engineering and software security with total <a href='https://scholar.google.com/citations?user=7GNtSFMAAAAJ'>google scholar citations <strong><span id='total_cit'>200+</span></strong></a> (You can also use google scholar badge 👉 <a href='https://scholar.google.com/citations?user=7GNtSFMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 If you would like to reach me, please send an email to <a href="mailto:Yanjie.Zhao@monash.edu">carolzhao233@gmail.com</a>.
 
