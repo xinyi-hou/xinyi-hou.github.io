@@ -15,6 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<img src="http://yanjiezhao96.github.io/images/pic1.jpg">
+<center style="font-size:14px;color:#C0C0C0">Photographed in Perth, August 2022</center>
+
 <span class='anchor' id='about-me'></span>
 
 I have completed my PhD from [Monash University](https://www.monash.edu/){:target="_blank"} in September 2023. I will be joining [The Ohio State University (OSU)](https://www.osu.edu/){:target="_blank"} as a Post Doctoral Researcher, working under the supervision of [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/){:target="_blank"}.
