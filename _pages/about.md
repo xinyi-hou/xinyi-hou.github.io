@@ -45,15 +45,16 @@ If you would like to reach me, please send an email to <a href="mailto:carolzhao
     <br>Haonan Hu, Yue Liu, **Yanjie Zhao**, Yonghui Liu, Xiaoyu Sun, Chakkrit Tantithamthavorn, Li Li, **2023 38th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW)** [[Paper](){:target="_blank"}]
 
 
-## <span style="color:grey">Papers Published During PhD Studies</span> 
-
-
 * **CiD4HMOS: A Solution to HarmonyOS Compatibility Issues**
     <br>Tianzhi Ma, **Yanjie Zhao**, Li Li, Liang Liu, **The 38th IEEE/ACM International Conference on Automated Software Engineering, Industry Challenge Track (ASE 2023)** [[Paper](){:target="_blank"}]
+
+  
+## <span style="color:grey">Papers Published During PhD Studies</span> 
 
 
 * **Automatically Detecting Incompatible Android APIs**
     <br>Pei Liu, **Yanjie Zhao**, Mattia Fazzini, Haipeng Cai, John Grundy, Li Li, **ACM Transactions on Software Engineering and Methodology (TOSEM), 2023** [[Paper](){:target="_blank"}]
+
 
 * **Are Mobile Advertisements in Compliance with App’s Age Group?**
     <br>**Yanjie Zhao**\*, Tianming Liu\*, Haoyu Wang, Yepang Liu, John Grundy, Li Li, **The ACM Web Conference (WWW 2023)** [[Paper](){:target="_blank"}]
