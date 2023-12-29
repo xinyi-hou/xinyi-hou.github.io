@@ -27,8 +27,8 @@ If you would like to reach me, please send an email to <a href="mailto:carolzhao
 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 Our paper titled "Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey" is available on [arXiv](https://arxiv.org/abs/2310.17903){:target="_blank"}.
-- *2023.08*: &nbsp;🎉🎉 Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2308.10620){:target="_blank"}.
+- 2023.10: &nbsp;🎉🎉 Our paper titled "Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey" is available on [arXiv](https://arxiv.org/abs/2310.17903){:target="_blank"}.
+- 2023.08: &nbsp;🎉🎉 Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2308.10620){:target="_blank"}.
 
   
 # 📝 Publications 
