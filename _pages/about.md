@@ -24,7 +24,7 @@ In 2019, I graduated from [Beijing University of Posts and Telecommunications](h
 
 My research interests include software engineering and software security. If you would like to reach me, please send an email to <a href="mailto:carolzhao233@gmail.com">carolzhao233@gmail.com</a>.
 
-Here are my close friends' homepages: [Liu Wang](https://liuer-wang.github.io/), [Xiaoyu Sun](https://sunxiaobiu.github.io/), [Shenao Wang](https://shenaow.github.io/), [Ningke Li](https://ningke-li.github.io/).
+😄🎁👉 Here are my close friends' homepages: [Liu Wang](https://liuer-wang.github.io/), [Xiaoyu Sun](https://sunxiaobiu.github.io/), [Pei Liu](https://gspeiliu.github.io/), [Shenao Wang](https://shenaow.github.io/), [Ningke Li](https://ningke-li.github.io/).
 
 
 # 🔥 News
