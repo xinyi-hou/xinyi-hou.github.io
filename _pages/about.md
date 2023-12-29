@@ -9,12 +9,12 @@ redirect_from:
   - <span class='anchor' id='about-me'></span>
 ---
 
-
+<span class='anchor' id='about-me'></span>
 # 😊 About Me
 
 I completed my PhD at [Monash University](https://www.monash.edu/) in September 2023. I will be joining [The Ohio State University (OSU)](https://www.osu.edu/) as a Post Doctoral Researcher, working under the supervision of [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/). 🍑･ᴗ･🍑
 
-Previously, in 2019, I obtained my Bachelor's degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), under the guidance of [Prof. Haoyu Wang](https://howiepku.github.io/). 
+In 2019, I obtained my Bachelor's degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), under the guidance of [Prof. Haoyu Wang](https://howiepku.github.io/). 
 My doctoral journey then commenced at [Monash University](https://www.monash.edu/), where I had the privilege of being supervised by [Prof. John Grundy](https://sites.google.com/site/johncgrundy/) and [Prof. Li Li](http://lilicoding.github.io/). 🥣•ᴥ•🥣
 
 My research interests include software engineering and software security. If you would like to reach me, please send an email to <a href="mailto:carolzhao233@gmail.com">carolzhao233@gmail.com</a>.
