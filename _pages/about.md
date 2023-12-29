@@ -98,16 +98,13 @@ redirect_from:
     <br>**Yanjie Zhao**, Haoyu Wang, Lei Ma, Yuxin Liu, Li Li, John Grundy, **IEEE International Conference on Software Analysis, Evolution and Reengineering, ERA Track (SANER 2019)** [[Paper](http://YanjieZhao96.github.io/files/zhao2019knowledge.pdf)]
 
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
 
 # 📖 Educations
 
 * 2015.09 - 2019.06, B.Eng., Beĳing University of Posts and Telecommunications, Beijing, China.
 * 2019.07 - 2019.09, Visitor, University of Luxembourg, Luxembourg.
 * 2019.09 - 2023.09, Ph.D., Monash University, Melbourne, Australia.
-* Continuously pursue knowledge and never cease learning... <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">
-
+* Continuously pursue knowledge and never cease learning...
 
 # 📒 Services
 * PC Member -- The International Symposium on Software Testing and Analysis (ISSTA 2024)
@@ -124,15 +121,14 @@ redirect_from:
  
 
 # 🎖 Honors and Awards
-* 2019 - Monash Graduate Scholarship (MGS). <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-* 2019 - City of Beijing "Triple-A" Outstanding Student. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-* 2018 - Cyber Security Scholarship of China Internet Development Foundation (one of the 66 award-winning undergraduates nationwide). <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-* 2017 - China National Scholarship. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-* 2017 - Meritorious Winner of MCM/ICM. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-* 2017 - First Prize in Beĳing Contest District in CUMCM. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-* 2017 - Second Prize in China National Cryptography Competition. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-* 2017 - Second Prize in Developers Conference of YiBan Development Center of Ministry of Education. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-* 2016 - China National Scholarship. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+* 2019 - Monash Graduate Scholarship (MGS). 
+* 2019 - City of Beijing "Triple-A" Outstanding Student. 
+* 2018 - Cyber Security Scholarship of China Internet Development Foundation (one of the 66 award-winning undergraduates nationwide). 
+* 2017 - China National Scholarship. 
+* 2017 - Meritorious Winner of MCM/ICM.
+* 2017 - First Prize in Beĳing Contest District in CUMCM. 
+* 2017 - Second Prize in China National Cryptography Competition. 
+* 2016 - China National Scholarship.
  
 
 # 💻 Skills
