@@ -6,25 +6,20 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - <span class='anchor' id='about-me'></span>
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# 😊 About Me
 
-<span class='anchor' id='about-me'></span>
+I completed my PhD at [Monash University](https://www.monash.edu/) in September 2023. I will be joining [The Ohio State University (OSU)](https://www.osu.edu/) as a Post Doctoral Researcher, working under the supervision of [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/). 🍑･ᴗ･🍑
 
-I have completed my PhD from [Monash University](https://www.monash.edu/){:target="_blank"} in September 2023. I will be joining [The Ohio State University (OSU)](https://www.osu.edu/){:target="_blank"} as a Post Doctoral Researcher, working under the supervision of [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/){:target="_blank"}.
-
-In 2019, I graduated from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/){:target="_blank"} with a bachelor's degree. After that, I moved to [Monash University](https://www.monash.edu/){:target="_blank"} to begin my PhD studies. During my PhD studies, my supervisors were [Prof. John Grundy](https://sites.google.com/site/johncgrundy/){:target="_blank"} and [Prof. Li Li](http://lilicoding.github.io/){:target="_blank"}. 
+Previously, in 2019, I obtained my Bachelor's degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), under the guidance of [Prof. Haoyu Wang](https://howiepku.github.io/). 
+My doctoral journey then commenced at [Monash University](https://www.monash.edu/), where I had the privilege of being supervised by [Prof. John Grundy](https://sites.google.com/site/johncgrundy/) and [Prof. Li Li](http://lilicoding.github.io/). 🥣•ᴥ•🥣
 
 My research interests include software engineering and software security. If you would like to reach me, please send an email to <a href="mailto:carolzhao233@gmail.com">carolzhao233@gmail.com</a>.
 
-😄🎁👉 Here are my close friends' homepages: [Liu Wang](https://liuer-wang.github.io/), [Xiaoyu Sun](https://sunxiaobiu.github.io/), [Pei Liu](https://gspeiliu.github.io/), [Shenao Wang](https://shenaow.github.io/), [Ningke Li](https://ningke-li.github.io/).
+(🔴’◡’🔴)ﾉ Here are my close friends' homepages: [Liu Wang](https://liuer-wang.github.io/), [Xiaoyu Sun](https://sunxiaobiu.github.io/), [Pei Liu](https://gspeiliu.github.io/), [Shenao Wang](https://shenaow.github.io/), [Ningke Li](https://ningke-li.github.io/).
 
 
 # 🔥 News
