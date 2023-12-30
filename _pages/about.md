@@ -34,14 +34,7 @@ redirect_from:
 * PC Member -- The International Symposium on Software Testing and Analysis (ISSTA 2024)
 
 # 🎖 Honors and Awards
-* 2019 - Monash Graduate Scholarship (MGS). 
-* 2019 - City of Beijing "Triple-A" Outstanding Student. 
-* 2018 - Cyber Security Scholarship of China Internet Development Foundation (one of the 66 award-winning undergraduates nationwide). 
-* 2017 - China National Scholarship. 
-* 2017 - Meritorious Winner of MCM/ICM.
-* 2017 - First Prize in Beĳing Contest District in CUMCM. 
-* 2017 - Second Prize in China National Cryptography Competition. 
-* 2016 - China National Scholarship.
+* 2023 - China National Scholarship.
  
 
 # 💻 Skills
