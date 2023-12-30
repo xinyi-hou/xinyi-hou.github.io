@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-# 😊 About Me
+# 🍦 About Me
 
 Hi, there! I’m a Ph.D. student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST), under the supervision of Prof. [Haoyu Wang](https://howiepku.github.io/). Previously, I received my B.Eng. degree at Northeastern University (NEU) in June 2023. 
 
