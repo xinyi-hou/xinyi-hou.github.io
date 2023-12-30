@@ -32,7 +32,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 * **Large language models for software engineering: A systematic literature review**
     <br>**Xinyi Hou**, Yanjie Zhao, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang [[Paper](https://arxiv.org/pdf/2308.10620.pdf)]
 
-# 📖 Educations
+# 📜 Educations
 
 * 2019.09 - 2023.06, B.Eng., Northeastern University, Shenyang, China.
 * 2023.09 till now, Ph.D., Huazhong University of Science and Technology, Wuhan, China.
