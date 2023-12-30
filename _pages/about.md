@@ -38,12 +38,7 @@ redirect_from:
  
 
 # 💻 Skills
-* Reading, writing, and speaking competencies in Mandarin Chinese and English.
-* Academic research, teaching, training, consultation, LATEX typesetting, and publishing.
-* Leisure Interests:
-  * Adobe Photoshop
-  * Adobe Premiere
-  * Adobe After Effects
+* 
 
 <img align="center" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
