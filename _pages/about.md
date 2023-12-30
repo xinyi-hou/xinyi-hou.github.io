@@ -11,8 +11,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 😊 About Me
 
+Hi, there! I’m a Ph.D. student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST), under the supervision of Prof. [Haoyu Wang](https://howiepku.github.io/). Previously, I received my B.S. degree at Northeastern University in June 2023. 
 
+My research interests include but are not limited to VR Security and LLM4SE.
 
+If you would like to reach me, please send an email to [xinyihou@hust.edu.cn](xinyihou@hust.edu.cn)
+
+Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.io/), [Shenao Wang](https://ShenaoW.github.io/), [Liu Wang](https://liuer-wang.github.io/), [Ningke Li](https://ningke-li.github.io/).
 
 # 🔥 News
 - 2023.08: &nbsp;🎉🎉 Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2308.10620).
