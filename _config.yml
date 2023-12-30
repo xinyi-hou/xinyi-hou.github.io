@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinyi Hou"
-description              : "PhD student @ Huazhong University of Science and Technology"
+description              : "Ph.D. student @ Huazhong University of Science and Technology"
 repository               : "xinyi-hou.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyi Hou"
   avatar           : "images/myphoto.jpg"
-  bio              : "✨"
+  bio              : "🍦"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yanjie-zhao-881a44234"
+  linkedin         : # "yanjie-zhao-881a44234"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0005-9965-2109"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "XinyiHou"
+  twitter          : # "XinyiHou"
   vine             :
   weibo            :
   xing             :
