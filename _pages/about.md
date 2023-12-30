@@ -45,9 +45,6 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 * 2020 - Inspur Scholarship  
 * 2020 - First Class Annual Outstanding Student
 
-# 💻 Skills
-* 
-
 <img align="center" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <br>
