@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xinyi Hou"
-  avatar           : "images/profile2.JPG"
+  avatar           : "images/myphoto.jpg"
   bio              : "✨"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7GNtSFMAAAAJ"
-  email            : "carolzhao233@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=2UG5s9sAAAAJ&hl=zh-CN&oi=sra"
+  email            : "xinyihou@hust.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "carol233"
+  github           : "xinyi-hou"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,13 +45,13 @@ author:
   lastfm           :
   linkedin         : "yanjie-zhao-881a44234"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-8793-5367"
+  orcid            : "https://orcid.org/0009-0005-9965-2109"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "YanjieZhao96"
+  twitter          : "XinyiHou"
   vine             :
   weibo            :
   xing             :
