@@ -25,30 +25,21 @@ redirect_from:
 - 2023.08: &nbsp;🎉🎉 Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2308.10620).
 
   
-# 📝 Preprint 
+# 📝 Publications 
 
 * **Large language models for software engineering: A systematic literature review**
     <br>**Xinyi Hou**, Yanjie Zhao, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang [[Paper](https://arxiv.org/pdf/2308.10620.pdf)]
 
 # 📖 Educations
 
-* 2015.09 - 2019.06, B.Eng., Beĳing University of Posts and Telecommunications, Beijing, China.
+* 2019.09 - 2023.06, B.Eng., Northeastern University, Shenyang, China.
 * 2019.07 - 2019.09, Visitor, University of Luxembourg, Luxembourg.
 * 2019.09 - 2023.09, Ph.D., Monash University, Melbourne, Australia.
 * Continuously pursue knowledge and never cease learning...
 
 # 📒 Services
 * PC Member -- The International Symposium on Software Testing and Analysis (ISSTA 2024)
-* Reviewer -- The Web Conference 2024 (WWW 2024)
-* Reviewer -- ACM Transactions on Software Engineering and Methodology (TOSEM)
-* Reviewer -- IEEE Transactions on Software Engineering (TSE)
-* Reviewer -- ACM Computing Surveys (CSUR)
-* Reviewer -- Empirical Software Engineering (EMSE)
-* Junior PC Member -- The Mining Software Repositories conference (MSR 2023)
-* Reviewer -- Journal of Systems and Software (JSS)
-* Reviewer -- IEEE Transactions on Reliability
-* Publicity Chair -- MOBILESoft 2023
-* PC Member -- MOBILESoft 2023, MOBILESoft 2024
+
  
 
 # 🎖 Honors and Awards
