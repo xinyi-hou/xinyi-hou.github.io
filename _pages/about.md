@@ -36,7 +36,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 * 2019.09 - 2023.06, B.Eng., Northeastern University, Shenyang, China.
 * 2023.09 till now, Ph.D., Huazhong University of Science and Technology, Wuhan, China.
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 * 2023 - Outstanding Graduates of Liaoning Province
 * 2023 - Distinguished Undergraduate Thesis of NEU
 * 2022 - China National Scholarship
