@@ -19,7 +19,7 @@ If you would like to reach me, please send an email to [xinyihou@hust.edu.cn](xi
 
 Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.io/), [Shenao Wang](https://ShenaoW.github.io/), [Liu Wang](https://liuer-wang.github.io/), [Ningke Li](https://ningke-li.github.io/)...
 
-# 🔥 News
+# 🌟 News
 
 - [21 Aug 2023] Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2308.10620).
 - [28 Jun 2023] I receive my B.Eng. degree at Northeastern University. 
