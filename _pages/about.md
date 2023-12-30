@@ -33,14 +33,10 @@ redirect_from:
 # 📖 Educations
 
 * 2019.09 - 2023.06, B.Eng., Northeastern University, Shenyang, China.
-* 2019.07 - 2019.09, Visitor, University of Luxembourg, Luxembourg.
-* 2019.09 - 2023.09, Ph.D., Monash University, Melbourne, Australia.
-* Continuously pursue knowledge and never cease learning...
+* 2023.09 till now, Ph.D., Huazhong University of Science and Technology, Wuhan, China.
 
 # 📒 Services
 * PC Member -- The International Symposium on Software Testing and Analysis (ISSTA 2024)
-
- 
 
 # 🎖 Honors and Awards
 * 2019 - Monash Graduate Scholarship (MGS). 
