@@ -35,6 +35,7 @@ redirect_from:
 
 # 🎖 Honors and Awards
 * 2023 - China National Scholarship.
+* 2023 - Outstanding Graduates of Liaoning Province
  
 
 # 💻 Skills
