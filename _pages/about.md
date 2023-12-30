@@ -11,21 +11,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 😊 About Me
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> I completed my PhD at [Monash University](https://www.monash.edu/) in September 2023. I will be joining [The Ohio State University (OSU)](https://www.osu.edu/) as a Post Doctoral Researcher, working under the supervision of [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/). 🍑･ᴗ･🍑 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Previously, in 2019, I obtained my Bachelor's degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), under the guidance of [Prof. Haoyu Wang](https://howiepku.github.io/). Subsequently, I commenced my doctoral studies at [Monash University](https://www.monash.edu/), where I had the privilege of being supervised by [Prof. John Grundy](https://sites.google.com/site/johncgrundy/) and [Prof. Li Li](http://lilicoding.github.io/). 🥣•ᴥ•🥣
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> My research interests include software engineering and software security. If you would like to reach me, please send an email to <a href="mailto:carolzhao233@gmail.com">carolzhao233@gmail.com</a>. 🥑•˕•🥑 
-
-(🔴’◡’🔴)ﾉ Here are my close friends' homepages: [Liu Wang](https://liuer-wang.github.io/), [Xiaoyu Sun](https://sunxiaobiu.github.io/), [Pei Liu](https://gspeiliu.github.io/), [Shenao Wang](https://shenaow.github.io/), [Ningke Li](https://ningke-li.github.io/) ... &nbsp; <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60" /> 
 
 
 # 🔥 News
-- 2023.10: &nbsp;🎉🎉 Our paper titled "Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey" is available on [arXiv](https://arxiv.org/abs/2310.17903).
 - 2023.08: &nbsp;🎉🎉 Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2308.10620).
 
   
 # 📝 Publications 
+
+## <span style="color:grey">Preprint</span> 
 
 * **Large language models for software engineering: A systematic literature review**
     <br>**Xinyi Hou**, Yanjie Zhao, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang [[Paper](https://arxiv.org/pdf/2308.10620.pdf)]
