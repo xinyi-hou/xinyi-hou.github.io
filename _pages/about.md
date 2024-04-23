@@ -29,6 +29,10 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 ## <span style="color:grey">Preprint</span> 
 
+* **LLM App Store Analysis: A Vision and Roadmap**
+    Yanjie Zhao, <br>**Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/zhao2024llm.pdf)]
+* **Large Language Model Supply Chain: A Research Agenda**
+    Shenao Wang, Yanjie Zhao, <br>**Xinyi Hou**, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/wang2024large.pdf)]
 * **Large language models for software engineering: A systematic literature review**
     <br>**Xinyi Hou**, Yanjie Zhao, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2023large.pdf)]
 
