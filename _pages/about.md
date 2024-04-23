@@ -21,6 +21,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 # 🌷 News
 
+- [19 Apr 2024] Our paper titled "LLM App Store Analysis: A Vision and Roadmap" is available on [arXiv](https://arxiv.org/abs/2404.12737).
 - [21 Aug 2023] Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2308.10620).
 - [28 Jun 2023] I receive my B.Eng. degree at Northeastern University. 
 - [28 Sep 2022] I become a member of SECURITY PRIDE Research Group.
