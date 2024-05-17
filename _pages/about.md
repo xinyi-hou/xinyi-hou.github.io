@@ -28,16 +28,18 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 # 📜 Publications 
 
+**(\* Equal Contribution)**
+
 ## <span style="color:grey">Preprint</span> 
 
 * **GPT Store Mining and Analysis**
-    <br>Dongxun Su, Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/du2024gpt.pdf)]
+    <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/du2024gpt.pdf)]
 * **LLM App Store Analysis: A Vision and Roadmap**
     <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/zhao2024llm.pdf)]
 * **Large Language Model Supply Chain: A Research Agenda**
     <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/wang2024large.pdf)]
 * **Large language models for software engineering: A systematic literature review**
-    <br>**Xinyi Hou**, Yanjie Zhao, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2023large.pdf)]
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2023large.pdf)]
 
 # 📚 Educations
 
