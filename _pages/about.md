@@ -34,6 +34,9 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 * **GPT Store Mining and Analysis**
     <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/du2024gpt.pdf)]
+
+## <span style="color:grey">Peer-Reviewed</span>
+
 * **LLM App Store Analysis: A Vision and Roadmap**
     <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/zhao2024llm.pdf)]
 * **Large Language Model Supply Chain: A Research Agenda**
