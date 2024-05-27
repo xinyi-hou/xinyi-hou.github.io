@@ -21,6 +21,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 # 🌷 News
 
+- [24 May 2024] Our paper titled "GPTZoo: A Large-scale Dataset of GPTs for the Research Community" is available on [arXiv](https://arxiv.org/abs/2405.15630).
 - [16 May 2024] Our paper titled "GPT Store Mining and Analysis" is available on [arXiv](https://arxiv.org/abs/2405.10210).
 - [19 Apr 2024] Our paper titled "LLM App Store Analysis: A Vision and Roadmap" is available on [arXiv](https://arxiv.org/abs/2404.12737).
 - [19 Apr 2024] Our paper titled "Large Language Model Supply Chain: A Research Agenda" is available on [arXiv](https://arxiv.org/abs/2404.12736).
@@ -34,6 +35,8 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 ## <span style="color:grey">Preprint</span> 
 
+* **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
+    <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2024gptzoo.pdf)]
 * **GPT Store Mining and Analysis**
     <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/su2024gpt.pdf)]
 
