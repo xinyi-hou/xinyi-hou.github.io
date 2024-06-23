@@ -39,8 +39,6 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2024gptzoo.pdf)]
 * **GPT Store Mining and Analysis**
     <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/su2024gpt.pdf)]
-* **Large language models for software engineering: A systematic literature review**
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2023large.pdf)]
 
 ## <span style="color:grey">Peer-Reviewed</span>
 
@@ -53,6 +51,8 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 * **ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle**
     <br>Liangxuan Wu, Yanjie Zhao, **Xinyi Hou**, Tianming Liu, Haoyu Wang
     <br>The 21st IEEE/ACM International Conference on Mining Software Repositories (MSR'24)[[Paper](https://xinyi-hou.github.io/files/wu2024chatgpt.pdf)]
+* **Large language models for software engineering: A systematic literature review**
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2023large.pdf)]
   
 # 📚 Educations
 
