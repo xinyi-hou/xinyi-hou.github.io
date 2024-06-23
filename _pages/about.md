@@ -26,7 +26,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 - [19 Apr 2024] Our paper titled "LLM App Store Analysis: A Vision and Roadmap" is available on [arXiv](https://arxiv.org/abs/2404.12737).
 - [19 Apr 2024] Our paper titled "Large Language Model Supply Chain: A Research Agenda" is available on [arXiv](https://arxiv.org/abs/2404.12736).
 - [1-3 Dec 2023] I attend the CCF ChinaSoft 2023 Conference in Shanghai, China.
-- [20-22 Oct 2023] I attend the CCF Advanced Disciplines Lectures (ADL), Session 144, on the topic of Code Generation Based on Large Models, in Beijing, China.
+- [20-22 Oct 2023] I attend the CCF Advanced Disciplines Lectures (ADL), Session 144, on the topic of Code Generation Based on Large Language Models, in Beijing, China.
 - [21 Aug 2023] Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2308.10620).
 - [28 Jun 2023] I receive my B.Eng. degree at Northeastern University. 
 - [28 Sep 2022] I become a member of SECURITY PRIDE Research Group.
