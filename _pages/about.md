@@ -39,16 +39,21 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2024gptzoo.pdf)]
 * **GPT Store Mining and Analysis**
     <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/su2024gpt.pdf)]
+* **Large language models for software engineering: A systematic literature review**
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2023large.pdf)]
 
 ## <span style="color:grey">Peer-Reviewed</span>
 
 * **LLM App Store Analysis: A Vision and Roadmap**
-    <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/zhao2024llm.pdf)]
+    <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
+    <br>The International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE'24)[[Paper](https://xinyi-hou.github.io/files/zhao2024llm.pdf)]
 * **Large Language Model Supply Chain: A Research Agenda**
-    <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/wang2024large.pdf)]
-* **Large language models for software engineering: A systematic literature review**
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2023large.pdf)]
-
+    <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang
+    <br>The International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE'24)[[Paper](https://xinyi-hou.github.io/files/wang2024large.pdf)]
+* **ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle**
+    <br>Liangxuan Wu, Yanjie Zhao, **Xinyi Hou**, Tianming Liu, Haoyu Wang
+    <br>The 21st IEEE/ACM International Conference on Mining Software Repositories (MSR'24)[[Paper](https://xinyi-hou.github.io/files/wu2024chatgpt.pdf)]
+  
 # 📚 Educations
 
 * 2019.09 - 2023.06, B.Eng., Northeastern University, Shenyang, China.
