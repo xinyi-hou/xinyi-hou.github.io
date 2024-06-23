@@ -25,6 +25,8 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 - [16 May 2024] Our paper titled "GPT Store Mining and Analysis" is available on [arXiv](https://arxiv.org/abs/2405.10210).
 - [19 Apr 2024] Our paper titled "LLM App Store Analysis: A Vision and Roadmap" is available on [arXiv](https://arxiv.org/abs/2404.12737).
 - [19 Apr 2024] Our paper titled "Large Language Model Supply Chain: A Research Agenda" is available on [arXiv](https://arxiv.org/abs/2404.12736).
+- [1-3 Dec 2023] I attend the CCF ChinaSoft 2023 Conference in Shanghai, China.
+- [20-22 Oct 2023] I attend the CCF Advanced Disciplines Lectures (ADL), Session 144, on the topic of Code Generation Based on Large Models.
 - [21 Aug 2023] Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2308.10620).
 - [28 Jun 2023] I receive my B.Eng. degree at Northeastern University. 
 - [28 Sep 2022] I become a member of SECURITY PRIDE Research Group.
@@ -58,6 +60,9 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 * 2019.09 - 2023.06, B.Eng., Northeastern University, Shenyang, China.
 * 2023.09 till now, Ph.D., Huazhong University of Science and Technology, Wuhan, China.
+
+# 💼 Services
+* Reviewer -- Automated Software Engineering (ASE)
 
 # 🏆 Honors and Awards
 * 2023 - Outstanding Graduates of Liaoning Province
