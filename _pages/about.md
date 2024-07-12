@@ -21,6 +21,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 # 🌷 News
 
+- [11 Jul 2024] Our paper titled "On the (In)Security of LLM App Stores" is available on [arXiv](https://arxiv.org/abs/2407.08422).
 - [24 May 2024] Our paper titled "GPTZoo: A Large-scale Dataset of GPTs for the Research Community" is available on [arXiv](https://arxiv.org/abs/2405.15630).
 - [16 May 2024] Our paper titled "GPT Store Mining and Analysis" is available on [arXiv](https://arxiv.org/abs/2405.10210).
 - [30 Apr 2024] Our paper titled "LLM App Store Analysis: A Vision and Roadmap" is accepted by [SE 2030](https://conf.researchr.org/home/2030-se).
@@ -37,6 +38,8 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 ## <span style="color:grey">Preprint</span> 
 
+* **On the (In)Security of LLM App Stores**
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2024insecurityllmappstores.pdf)]
 * **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2024gptzoo.pdf)]
 * **GPT Store Mining and Analysis**
