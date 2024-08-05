@@ -21,11 +21,10 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 # 🌷 News
 
+- [4 Aug 2024] Our paper titled "GPTZoo: A Large-scale Dataset of GPTs for the Research Community" is accepted by ASE 2024 - NIER Track.
 - [11 Jul 2024] Our paper titled "On the (In)Security of LLM App Stores" is available on [arXiv](https://arxiv.org/abs/2407.08422).
-- [24 May 2024] Our paper titled "GPTZoo: A Large-scale Dataset of GPTs for the Research Community" is available on [arXiv](https://arxiv.org/abs/2405.15630).
-- [16 May 2024] Our paper titled "GPT Store Mining and Analysis" is available on [arXiv](https://arxiv.org/abs/2405.10210).
-- [30 Apr 2024] Our paper titled "LLM App Store Analysis: A Vision and Roadmap" is accepted by [SE 2030](https://conf.researchr.org/home/2030-se).
-- [30 Apr 2024] Our paper titled "Large Language Model Supply Chain: A Research Agenda" is accepted by [SE 2030](https://conf.researchr.org/home/2030-se).
+- [30 Apr 2024] Our paper titled "LLM App Store Analysis: A Vision and Roadmap" is accepted by SE 2030.
+- [30 Apr 2024] Our paper titled "Large Language Model Supply Chain: A Research Agenda" is accepted by SE 2030.
 - [1-3 Dec 2023] I attend the CCF ChinaSoft 2023 Conference in Shanghai, China.
 - [20-22 Oct 2023] I attend the CCF Advanced Disciplines Lectures (ADL), Session 144, on the topic of Code Generation Based on Large Language Models, in Beijing, China.
 - [21 Aug 2023] Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2308.10620).
