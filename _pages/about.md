@@ -35,6 +35,8 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 ## <span style="color:grey">Preprint</span> 
 
+* **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum**
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2024voices.pdf)]
 * **On the (In)Security of LLM App Stores**
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2024insecurityllmappstores.pdf)]
 * **GPT Store Mining and Analysis**
