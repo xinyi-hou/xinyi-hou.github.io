@@ -47,7 +47,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 * **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
-    <br>*ASE 2024, The New Ideas and Emerging Results (NIER) Track[[Paper](https://xinyi-hou.github.io/files/hou2024gptzoo.pdf)]*
+    <br>***ASE 2024, The New Ideas and Emerging Results (NIER) Track[[Paper](https://xinyi-hou.github.io/files/hou2024gptzoo.pdf)]***
 * **LLM App Store Analysis: A Vision and Roadmap**
     <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
     <br>The International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE'24)[[Paper](https://xinyi-hou.github.io/files/zhao2024llm.pdf)]
