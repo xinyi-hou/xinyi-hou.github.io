@@ -21,6 +21,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 # 🌷 News
 
+- [27 Aug 2024] Our paper titled "Large language models for software engineering: A systematic literature review" is accepted by TOSEM.
 - [4 Aug 2024] Our paper titled "GPTZoo: A Large-scale Dataset of GPTs for the Research Community" is accepted by ASE 2024 - NIER Track.
 - [30 Apr 2024] Our paper titled "LLM App Store Analysis: A Vision and Roadmap" is accepted by SE 2030.
 - [30 Apr 2024] Our paper titled "Large Language Model Supply Chain: A Research Agenda" is accepted by SE 2030.
@@ -58,6 +59,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
     <br>The 21st IEEE/ACM International Conference on Mining Software Repositories (MSR'24)[[Paper](https://xinyi-hou.github.io/files/wu2024chatgpt.pdf)]
 * **Large language models for software engineering: A systematic literature review**
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2023large.pdf)]
+    <br>ACM Transactions on Software Engineering and Methodology (TOSEM)
   
 # 📚 Educations
 
