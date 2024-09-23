@@ -36,6 +36,8 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 ## <span style="color:grey">Preprint</span> 
 
+* **Bridging Design and Development with Automated Declarative UI Code Generation**
+    <br>Ting Zhou\*, Yanjie Zhao\*, **Xinyi Hou**, Xiaoyu Sun, Kai Chen, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/zhou2024bridging.pdf)]
 * **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum**
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2024voices.pdf)]
 * **On the (In)Security of LLM App Stores**
@@ -45,6 +47,9 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 ## <span style="color:grey">Peer-Reviewed</span>
 
+* **Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
+    <br>Jian Zhao\*, Shenao Wang\*, Yanjie Zhao, **Xinyi Hou**, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
+    <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase (Full Paper), 2024* [[Paper](https://xinyi-hou.github.io/files/zhao2024models.pdf)]
 * **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
     <br>*ASE 2024, The New Ideas and Emerging Results (NIER) Track* [[Paper](https://xinyi-hou.github.io/files/hou2024gptzoo.pdf)]
