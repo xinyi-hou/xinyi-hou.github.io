@@ -36,6 +36,8 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 ## <span style="color:grey">Preprint</span> 
 
+* **LLM App Squatting and Cloning**
+    <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Kai Chen, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/xie2024squatting.pdf)]
 * **Bridging Design and Development with Automated Declarative UI Code Generation**
     <br>Ting Zhou\*, Yanjie Zhao\*, **Xinyi Hou**, Xiaoyu Sun, Kai Chen, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/zhou2024bridging.pdf)]
 * **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum**
@@ -71,6 +73,9 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 * 2019.09 - 2023.06, B.Eng., Northeastern University, Shenyang, China.
 * 2023.09 till now, Ph.D., Huazhong University of Science and Technology, Wuhan, China.
 
+# 💼 Services
+* Journal Reviewer -- Automated Software Engineering (ASE)
+  
 # 🏆 Honors and Awards
 * 2023 - Outstanding Graduates of Liaoning Province
 * 2023 - Distinguished Undergraduate Thesis of NEU
