@@ -49,6 +49,9 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 ## <span style="color:grey">Peer-Reviewed</span>
 
+* **Large language models for software engineering: A systematic literature review**
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang 
+    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper](https://xinyi-hou.github.io/files/hou2023large.pdf)]
 * **Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
     <br>Jian Zhao\*, Shenao Wang\*, Yanjie Zhao, **Xinyi Hou**, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
     <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase (Full Paper), 2024* [[Paper](https://xinyi-hou.github.io/files/zhao2024models.pdf)]
@@ -64,9 +67,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 * **ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle**
     <br>Liangxuan Wu, Yanjie Zhao, **Xinyi Hou**, Tianming Liu, Haoyu Wang
     <br>*The 21st IEEE/ACM International Conference on Mining Software Repositories (MSR'24)* [[Paper](https://xinyi-hou.github.io/files/wu2024chatgpt.pdf)]
-* **Large language models for software engineering: A systematic literature review**
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang 
-    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper](https://xinyi-hou.github.io/files/hou2023large.pdf)]
+
   
 # 📚 Educations
 
