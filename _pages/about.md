@@ -34,19 +34,6 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 **(\* Equal Contribution)**
 
-## <span style="color:grey">Preprint</span> 
-
-* **LLM App Squatting and Cloning**
-    <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Kai Chen, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/xie2024squatting.pdf)]
-* **Bridging Design and Development with Automated Declarative UI Code Generation**
-    <br>Ting Zhou\*, Yanjie Zhao\*, **Xinyi Hou**, Xiaoyu Sun, Kai Chen, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/zhou2024bridging.pdf)]
-* **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum**
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2024voices.pdf)]
-* **On the (In)Security of LLM App Stores**
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2024insecurityllmappstores.pdf)]
-* **GPT Store Mining and Analysis**
-    <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/su2024gpt.pdf)]
-
 ## <span style="color:grey">Peer-Reviewed</span>
 
 * **Large language models for software engineering: A systematic literature review**
@@ -67,6 +54,19 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 * **ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle**
     <br>Liangxuan Wu, Yanjie Zhao, **Xinyi Hou**, Tianming Liu, Haoyu Wang
     <br>*The 21st IEEE/ACM International Conference on Mining Software Repositories (MSR'24)* [[Paper](https://xinyi-hou.github.io/files/wu2024chatgpt.pdf)]
+
+## <span style="color:grey">Preprint</span> 
+
+* **LLM App Squatting and Cloning**
+    <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Kai Chen, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/xie2024squatting.pdf)]
+* **Bridging Design and Development with Automated Declarative UI Code Generation**
+    <br>Ting Zhou\*, Yanjie Zhao\*, **Xinyi Hou**, Xiaoyu Sun, Kai Chen, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/zhou2024bridging.pdf)]
+* **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum**
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2024voices.pdf)]
+* **On the (In)Security of LLM App Stores**
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2024insecurityllmappstores.pdf)]
+* **GPT Store Mining and Analysis**
+    <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/su2024gpt.pdf)]
 
   
 # 📚 Educations
