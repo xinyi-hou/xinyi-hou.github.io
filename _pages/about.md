@@ -47,10 +47,10 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
     <br>*ASE 2024, The New Ideas and Emerging Results (NIER) Track* [[Paper](https://xinyi-hou.github.io/files/hou2024gptzoo.pdf)]
 * **LLM App Store Analysis: A Vision and Roadmap**
     <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
-    <br>*The International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE'24)* [[Paper](https://xinyi-hou.github.io/files/zhao2024llm.pdf)]
+    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper](https://xinyi-hou.github.io/files/zhao2024llm.pdf)]
 * **Large Language Model Supply Chain: A Research Agenda**
     <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang
-    <br>*The International Workshop on Software Engineering in 2030 (SE 2030, co-located with FSE'24)* [[Paper](https://xinyi-hou.github.io/files/wang2024large.pdf)]
+    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper](https://xinyi-hou.github.io/files/wang2024large.pdf)]
 * **ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle**
     <br>Liangxuan Wu, Yanjie Zhao, **Xinyi Hou**, Tianming Liu, Haoyu Wang
     <br>*The 21st IEEE/ACM International Conference on Mining Software Repositories (MSR'24)* [[Paper](https://xinyi-hou.github.io/files/wu2024chatgpt.pdf)]
