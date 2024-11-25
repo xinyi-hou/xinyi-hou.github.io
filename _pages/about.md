@@ -21,6 +21,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 # 🌷 News
 
+- [15-17 Nov 2024] I attend the CCF ChinaSoft 2024 Conference in Xian, China.
 - [27 Aug 2024] Our paper titled "Large language models for software engineering: A systematic literature review" is accepted by TOSEM.
 - [4 Aug 2024] Our paper titled "GPTZoo: A Large-scale Dataset of GPTs for the Research Community" is accepted by ASE 2024 - NIER Track.
 - [30 Apr 2024] Our paper titled "LLM App Store Analysis: A Vision and Roadmap" is accepted by SE 2030.
@@ -38,35 +39,35 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 * **Large language models for software engineering: A systematic literature review**
   <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang
-  <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper](https://xinyi-hou.github.io/files/hou2023large.pdf)]
+  <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper](https://dl.acm.org/doi/abs/10.1145/3695988)]
 * **Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
     <br>Jian Zhao\*, Shenao Wang\*, Yanjie Zhao, **Xinyi Hou**, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
-    <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase (Full Paper), 2024* [[Paper](https://xinyi-hou.github.io/files/zhao2024models.pdf)]
+    <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase (Full Paper), 2024* [[Paper](https://dl.acm.org/doi/10.1145/3691620.3695271)]
 * **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
-    <br>*ASE 2024, The New Ideas and Emerging Results (NIER) Track* [[Paper](https://xinyi-hou.github.io/files/hou2024gptzoo.pdf)]
+    <br>*ASE 2024, The New Ideas and Emerging Results (NIER) Track* [[Paper](https://dl.acm.org/doi/10.1145/3691620.3695309)]
 * **LLM App Store Analysis: A Vision and Roadmap**
     <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
-    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper](https://xinyi-hou.github.io/files/zhao2024llm.pdf)]
+    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper](https://arxiv.org/abs/2404.12737)]
 * **Large Language Model Supply Chain: A Research Agenda**
     <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang
-    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper](https://xinyi-hou.github.io/files/wang2024large.pdf)]
+    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper](https://arxiv.org/abs/2404.12736)]
 * **ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle**
     <br>Liangxuan Wu, Yanjie Zhao, **Xinyi Hou**, Tianming Liu, Haoyu Wang
-    <br>*The 21st IEEE/ACM International Conference on Mining Software Repositories (MSR'24)* [[Paper](https://xinyi-hou.github.io/files/wu2024chatgpt.pdf)]
+    <br>*The 21st IEEE/ACM International Conference on Mining Software Repositories (MSR'24)* [[Paper](https://ieeexplore.ieee.org/abstract/document/10555800)]
 
 ## <span style="color:grey">Preprint</span> 
 
 * **LLM App Squatting and Cloning**
-    <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Kai Chen, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/xie2024squatting.pdf)]
+    <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Kai Chen, Haoyu Wang [[Paper](https://arxiv.org/abs/2411.07518)]
 * **Bridging Design and Development with Automated Declarative UI Code Generation**
-    <br>Ting Zhou\*, Yanjie Zhao\*, **Xinyi Hou**, Xiaoyu Sun, Kai Chen, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/zhou2024bridging.pdf)]
+    <br>Ting Zhou\*, Yanjie Zhao\*, **Xinyi Hou**, Xiaoyu Sun, Kai Chen, Haoyu Wang [[Paper](https://arxiv.org/abs/2409.11667)]
 * **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum**
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2024voices.pdf)]
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://arxiv.org/abs/2408.01687)]
 * **On the (In)Security of LLM App Stores**
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/hou2024insecurityllmappstores.pdf)]
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://arxiv.org/abs/2407.08422)]
 * **GPT Store Mining and Analysis**
-    <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://xinyi-hou.github.io/files/su2024gpt.pdf)]
+    <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://arxiv.org/abs/2405.10210]
 
   
 # 📚 Educations
