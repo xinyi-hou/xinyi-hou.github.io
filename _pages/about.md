@@ -21,7 +21,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 # 🌷 News
 
-- [15-17 Nov 2024] I attend the CCF ChinaSoft 2024 Conference in Xian, China.
+- [15-17 Nov 2024] We win the third prize in the Software Research Prototype System Competition of ChinaSoft 2024.
 - [27 Aug 2024] Our paper titled "Large language models for software engineering: A systematic literature review" is accepted by TOSEM.
 - [4 Aug 2024] Our paper titled "GPTZoo: A Large-scale Dataset of GPTs for the Research Community" is accepted by ASE 2024 - NIER Track.
 - [30 Apr 2024] Our paper titled "LLM App Store Analysis: A Vision and Roadmap" is accepted by SE 2030.
