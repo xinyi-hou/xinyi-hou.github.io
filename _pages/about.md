@@ -68,7 +68,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 * **On the (In)Security of LLM App Stores**
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://arxiv.org/abs/2407.08422)]
 * **GPT Store Mining and Analysis**
-    <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://arxiv.org/abs/2405.10210]
+    <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://arxiv.org/abs/2405.10210]]
 
   
 # 📚 Educations
