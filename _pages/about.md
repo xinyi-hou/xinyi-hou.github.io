@@ -21,7 +21,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 # 🌷 News
 
-- [Nov 2024] Excited to announce the 1st workshop on [#LLMapp](https://llmappworkshop.github.io/), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.
+- [Nov 2024] Excited to announce the 1st workshop on [LLMapp](https://llmappworkshop.github.io/), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.
 - [15-17 Nov 2024] We win the third prize in the Software Research Prototype System Competition of ChinaSoft 2024.
 - [27 Aug 2024] Our paper titled "Large language models for software engineering: A systematic literature review" is accepted by TOSEM.
 - [4 Aug 2024] Our paper titled "GPTZoo: A Large-scale Dataset of GPTs for the Research Community" is accepted by ASE 2024 - NIER Track.
