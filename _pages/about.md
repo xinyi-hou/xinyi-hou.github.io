@@ -25,6 +25,9 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 - [21 Nov 2024] Two papers working on LLM Apps and Supply Chain were accepted by TOSEM 2030 SE Roadmap!
 - [15-17 Nov 2024] We won the third prize in the Software Research Prototype System Competition of ChinaSoft 2024.
 - [8-9 Nov 2024] I attended the AI+ Development Digital Summit in Shenzhen, China.
+- [27 Aug 2024] Our paper titled "Large language models for software engineering: A systematic literature review" was accepted by TOSEM!
+- [24 Aug 2024] Our paper titled "Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs" was accepted by ASE 2024, Industry Showcase!
+- [4 Aug 2024] Our paper titled "GPTZoo: A Large-scale Dataset of GPTs for the Research Community" was accepted by ASE 2024, NIER Track!
 - [1-3 Dec 2023] I attended the CCF ChinaSoft 2023 Conference in Shanghai, China.
 - [20-22 Oct 2023] I attended the CCF Advanced Disciplines Lectures (ADL), Session 144, on the topic of Code Generation Based on large language models in Beijing, China.
 - [28 Jun 2023] I received my B.Eng. degree at Northeastern University. 
