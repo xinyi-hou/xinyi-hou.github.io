@@ -78,6 +78,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 # 💼 Services
 * Journal Reviewer -- Automated Software Engineering (ASE)
+* Publicity Chair -- LLMapp 2025
   
 # 🏆 Honors and Awards
 * 2023 - Outstanding Graduates of Liaoning Province
