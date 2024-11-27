@@ -41,18 +41,18 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 * **Large language models for software engineering: A systematic literature review**
   <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang
   <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper](https://dl.acm.org/doi/abs/10.1145/3695988)]
-* **Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
-    <br>Jian Zhao\*, Shenao Wang\*, Yanjie Zhao, **Xinyi Hou**, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
-    <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase (Full Paper), 2024* [[Paper](https://dl.acm.org/doi/10.1145/3691620.3695271)]
-* **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
-    <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
-    <br>*ASE 2024, The New Ideas and Emerging Results (NIER) Track* [[Paper](https://dl.acm.org/doi/10.1145/3691620.3695309)]
 * **LLM App Store Analysis: A Vision and Roadmap**
     <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
     <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper](https://arxiv.org/abs/2404.12737)]
 * **Large Language Model Supply Chain: A Research Agenda**
     <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang
     <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper](https://arxiv.org/abs/2404.12736)]
+* **Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
+    <br>Jian Zhao\*, Shenao Wang\*, Yanjie Zhao, **Xinyi Hou**, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
+    <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase (Full Paper), 2024* [[Paper](https://dl.acm.org/doi/10.1145/3691620.3695271)]
+* **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
+    <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
+    <br>*ASE 2024, The New Ideas and Emerging Results (NIER) Track* [[Paper](https://dl.acm.org/doi/10.1145/3691620.3695309)]
 * **ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle**
     <br>Liangxuan Wu, Yanjie Zhao, **Xinyi Hou**, Tianming Liu, Haoyu Wang
     <br>*The 21st IEEE/ACM International Conference on Mining Software Repositories (MSR'24)* [[Paper](https://ieeexplore.ieee.org/abstract/document/10555800)]
