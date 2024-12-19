@@ -51,7 +51,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
     <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper](https://arxiv.org/abs/2404.12736)]
 * **ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking**
     <br>Qiang Ke\*, **Xinyi Hou**\*, Yanjie Zhao, Haoyu Wang
-    <br>*The 47th IEEE/ACM International Conference on Software Engineering (ICSE)* [[Paper]()]
+    <br>*The 47th IEEE/ACM International Conference on Software Engineering (ICSE)* [[Paper](https://conf.researchr.org/details/icse-2025/icse-2025-industry-challenge-track/3/ClauseBench-Enhancing-Software-License-Analysis-with-Clause-Level-Benchmarking)]
 * **Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
     <br>Jian Zhao\*, Shenao Wang\*, Yanjie Zhao, **Xinyi Hou**, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
     <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase (Full Paper), 2024* [[Paper](https://dl.acm.org/doi/10.1145/3691620.3695271)]
