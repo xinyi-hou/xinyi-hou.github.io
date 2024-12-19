@@ -21,6 +21,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 # 🌷 News
 
+- [19 Dec 2025] Our paper titled "ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking" was accepted by ICSE 2025, Industry Challenge Track!
 - [27 Nov 2024] Excited to announce the 1st workshop on [LLMapp](https://llmappworkshop.github.io/), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.
 - [21 Nov 2024] Two papers working on LLM Apps and Supply Chain were accepted by TOSEM 2030 SE Roadmap!
 - [15-17 Nov 2024] We won the third prize in the Software Research Prototype System Competition of ChinaSoft 2024.
@@ -48,6 +49,9 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 * **Large Language Model Supply Chain: A Research Agenda**
     <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang
     <br>*ACM Transactions on Software Engineering and Methodology (TOSEM)* [[Paper](https://arxiv.org/abs/2404.12736)]
+* **ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking**
+    <br>Qiang Ke\*, **Xinyi Hou**\*, Yanjie Zhao, Haoyu Wang
+    <br>*The 47th IEEE/ACM International Conference on Software Engineering (ICSE)* [[Paper]()]
 * **Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
     <br>Jian Zhao\*, Shenao Wang\*, Yanjie Zhao, **Xinyi Hou**, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
     <br>*The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase (Full Paper), 2024* [[Paper](https://dl.acm.org/doi/10.1145/3691620.3695271)]
