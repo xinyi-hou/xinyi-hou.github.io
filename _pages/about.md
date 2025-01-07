@@ -51,16 +51,16 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
     <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* [[Paper](https://arxiv.org/abs/2404.12736)]
 * **ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking**
     <br>Qiang Ke\*, **Xinyi Hou**\*, Yanjie Zhao, Haoyu Wang
-    <br>*[ICSE'25] The 47th IEEE/ACM International Conference on Software Engineering (ICSE), Industry Challenge Track* [[Paper](https://conf.researchr.org/details/icse-2025/icse-2025-industry-challenge-track/3/ClauseBench-Enhancing-Software-License-Analysis-with-Clause-Level-Benchmarking)]
+    <br>*<span style="color:#cd3278">\[ICSE'25\]</span> The 47th IEEE/ACM International Conference on Software Engineering (ICSE), Industry Challenge Track* [[Paper](https://conf.researchr.org/details/icse-2025/icse-2025-industry-challenge-track/3/ClauseBench-Enhancing-Software-License-Analysis-with-Clause-Level-Benchmarking)]
 * **Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
     <br>Jian Zhao\*, Shenao Wang\*, Yanjie Zhao, **Xinyi Hou**, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
-    <br>*[ASE'24] The 39th IEEE/ACM International Conference on Automated Software Engineering, Industry Showcase (Full Paper), 2024* [[Paper](https://dl.acm.org/doi/10.1145/3691620.3695271)]
+    <br>*<span style="color:#cd3278">\[ASE'24\]</span> The 39th IEEE/ACM International Conference on Automated Software Engineering, Industry Showcase (Full Paper), 2024* [[Paper](https://dl.acm.org/doi/10.1145/3691620.3695271)]
 * **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
-    <br>*[ASE'24] The 39th IEEE/ACM International Conference on Automated Software Engineering, NIER Track* [[Paper](https://dl.acm.org/doi/10.1145/3691620.3695309)]
+    <br>*<span style="color:#cd3278">\[ASE'24\]</span> The 39th IEEE/ACM International Conference on Automated Software Engineering, NIER Track* [[Paper](https://dl.acm.org/doi/10.1145/3691620.3695309)]
 * **ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle**
     <br>Liangxuan Wu, Yanjie Zhao, **Xinyi Hou**, Tianming Liu, Haoyu Wang
-    <br>*[MSR'24] The 21st IEEE/ACM International Conference on Mining Software Repositories* [[Paper](https://ieeexplore.ieee.org/abstract/document/10555800)]
+    <br>*<span style="color:#cd3278">\[MSR'24\]</span> The 21st IEEE/ACM International Conference on Mining Software Repositories* [[Paper](https://ieeexplore.ieee.org/abstract/document/10555800)]
 
 ## <span style="color:grey">Preprint</span> 
 
