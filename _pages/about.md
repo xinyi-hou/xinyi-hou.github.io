@@ -57,7 +57,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
     <br>*[ASE'24] The 39th IEEE/ACM International Conference on Automated Software Engineering, Industry Showcase (Full Paper), 2024* [[Paper](https://dl.acm.org/doi/10.1145/3691620.3695271)]
 * **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
-    <br>*[ASE'24] ASE 2024, The 39th IEEE/ACM International Conference on Automated Software Engineering, New Ideas and Emerging Results (NIER) Track* [[Paper](https://dl.acm.org/doi/10.1145/3691620.3695309)]
+    <br>*[ASE'24] The 39th IEEE/ACM International Conference on Automated Software Engineering, New Ideas and Emerging Results (NIER) Track* [[Paper](https://dl.acm.org/doi/10.1145/3691620.3695309)]
 * **ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle**
     <br>Liangxuan Wu, Yanjie Zhao, **Xinyi Hou**, Tianming Liu, Haoyu Wang
     <br>*[MSR'24] The 21st IEEE/ACM International Conference on Mining Software Repositories* [[Paper](https://ieeexplore.ieee.org/abstract/document/10555800)]
