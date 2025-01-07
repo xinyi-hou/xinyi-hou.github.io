@@ -45,10 +45,10 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
   <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* [[Paper](https://dl.acm.org/doi/abs/10.1145/3695988)]
 * **LLM App Store Analysis: A Vision and Roadmap**
     <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
-    <br>*[TOSEM] ACM Transactions on Software Engineering and Methodology* [[Paper](https://arxiv.org/abs/2404.12737)]
+    <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* [[Paper](https://arxiv.org/abs/2404.12737)]
 * **Large Language Model Supply Chain: A Research Agenda**
     <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang
-    <br>*[TOSEM] ACM Transactions on Software Engineering and Methodology* [[Paper](https://arxiv.org/abs/2404.12736)]
+    <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* [[Paper](https://arxiv.org/abs/2404.12736)]
 * **ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking**
     <br>Qiang Ke\*, **Xinyi Hou**\*, Yanjie Zhao, Haoyu Wang
     <br>*[ICSE'25] The 47th IEEE/ACM International Conference on Software Engineering (ICSE), Industry Challenge Track* [[Paper](https://conf.researchr.org/details/icse-2025/icse-2025-industry-challenge-track/3/ClauseBench-Enhancing-Software-License-Analysis-with-Clause-Level-Benchmarking)]
