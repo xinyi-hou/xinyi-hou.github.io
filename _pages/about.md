@@ -42,7 +42,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 * **Large language models for software engineering: A systematic literature review**
   <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang
-  <br>*[TOSEM] ACM Transactions on Software Engineering and Methodology* [[Paper](https://dl.acm.org/doi/abs/10.1145/3695988)]
+  <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* [[Paper](https://dl.acm.org/doi/abs/10.1145/3695988)]
 * **LLM App Store Analysis: A Vision and Roadmap**
     <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
     <br>*[TOSEM] ACM Transactions on Software Engineering and Methodology* [[Paper](https://arxiv.org/abs/2404.12737)]
