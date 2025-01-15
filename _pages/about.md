@@ -52,7 +52,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
     <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* [[Paper](https://dl.acm.org/doi/10.1145/3708531)]
 * **Bridging Design and Development with Automated Declarative UI Code Generation**
     <br>Ting Zhou\*, Yanjie Zhao\*, **Xinyi Hou**, Xiaoyu Sun, Kai Chen, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[TOSEM\]</span>The ACM International Conference on the Foundations of Software Engineering* [[Paper](https://arxiv.org/abs/2409.11667)]
+    <br>*<span style="color:#cd3278">\[FSE‘25\]</span>The ACM International Conference on the Foundations of Software Engineering* [[Paper](https://arxiv.org/abs/2409.11667)]
 * **ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking**
     <br>Qiang Ke\*, **Xinyi Hou**\*, Yanjie Zhao, Haoyu Wang
     <br>*<span style="color:#cd3278">\[ICSE'25\]</span> The 47th IEEE/ACM International Conference on Software Engineering, Industry Challenge Track* [[Paper](https://conf.researchr.org/details/icse-2025/icse-2025-industry-challenge-track/3/ClauseBench-Enhancing-Software-License-Analysis-with-Clause-Level-Benchmarking)]
