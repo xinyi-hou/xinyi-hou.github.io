@@ -15,15 +15,16 @@ Hi, there! I’m a Ph.D. student in the School of Cyber Science and Engineering 
 
 My research interests include but are not limited to LLM+SE.
 
-If you would like to reach me, please send an email to [xinyihou@hust.edu.cn](xinyihou@hust.edu.cn).
+If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust.edu.cn).
 
 Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.io/), [Shenao Wang](https://ShenaoW.github.io/), [Liu Wang](https://liuer-wang.github.io/), [Ningke Li](https://ningke-li.github.io/)...
 
 # 🌷 News
 
-- [19 Dec 2025] Our paper titled "ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking" was accepted by ICSE 2025, Industry Challenge Track!
+- [15 Jan 2025] Our paper titled "Bridging Design and Development with Automated Declarative UI Code Generation" was accepted by FSE 2025!
+- [19 Dec 2024] Our paper titled "ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking" was accepted by ICSE 2025, Industry Challenge Track!
 - [27 Nov 2024] Excited to announce the 1st workshop on [LLMapp](https://llmappworkshop.github.io/), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.
-- [21 Nov 2024] Two papers working on LLM Apps and Supply Chain were accepted by TOSEM 2030 SE Roadmap!
+- [21 Nov 2024] Two papers on LLM Apps and Supply Chain were accepted by TOSEM 2030 SE Roadmap!
 - [15-17 Nov 2024] We won the third prize in the Software Research Prototype System Competition of ChinaSoft 2024.
 - [8-9 Nov 2024] I attended the AI+ Development Digital Summit in Shenzhen, China.
 - [27 Aug 2024] Our paper titled "Large language models for software engineering: A systematic literature review" was accepted by TOSEM!
@@ -49,6 +50,9 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 * **Large Language Model Supply Chain: A Research Agenda**
     <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang
     <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* [[Paper](https://dl.acm.org/doi/10.1145/3708531)]
+* **Bridging Design and Development with Automated Declarative UI Code Generation**
+    <br>Ting Zhou\*, Yanjie Zhao\*, **Xinyi Hou**, Xiaoyu Sun, Kai Chen, Haoyu Wang
+    <br>*<span style="color:#cd3278">\[TOSEM\]</span>The ACM International Conference on the Foundations of Software Engineering* [[Paper](https://arxiv.org/abs/2409.11667)]
 * **ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking**
     <br>Qiang Ke\*, **Xinyi Hou**\*, Yanjie Zhao, Haoyu Wang
     <br>*<span style="color:#cd3278">\[ICSE'25\]</span> The 47th IEEE/ACM International Conference on Software Engineering, Industry Challenge Track* [[Paper](https://conf.researchr.org/details/icse-2025/icse-2025-industry-challenge-track/3/ClauseBench-Enhancing-Software-License-Analysis-with-Clause-Level-Benchmarking)]
@@ -66,8 +70,6 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 * **LLM App Squatting and Cloning**
     <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Kai Chen, Haoyu Wang [[Paper](https://arxiv.org/abs/2411.07518)]
-* **Bridging Design and Development with Automated Declarative UI Code Generation**
-    <br>Ting Zhou\*, Yanjie Zhao\*, **Xinyi Hou**, Xiaoyu Sun, Kai Chen, Haoyu Wang [[Paper](https://arxiv.org/abs/2409.11667)]
 * **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum**
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://arxiv.org/abs/2408.01687)]
 * **On the (In)Security of LLM App Stores**
