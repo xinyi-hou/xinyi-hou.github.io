@@ -21,9 +21,9 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 
 # 🌷 News
 
+- 🔝 Excited to announce the 1st workshop on [LLMapp](https://llmappworkshop.github.io/), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.
 - [15 Jan 2025] Our paper titled "Bridging Design and Development with Automated Declarative UI Code Generation" was accepted by FSE 2025!
 - [19 Dec 2024] Our paper titled "ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking" was accepted by ICSE 2025, Industry Challenge Track!
-- [27 Nov 2024] Excited to announce the 1st workshop on [LLMapp](https://llmappworkshop.github.io/), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.
 - [21 Nov 2024] Two papers on LLM Apps and Supply Chain were accepted by TOSEM 2030 SE Roadmap!
 - [15-17 Nov 2024] We won the third prize in the Software Research Prototype System Competition of ChinaSoft 2024.
 - [8-9 Nov 2024] I attended the AI+ Development Digital Summit in Shenzhen, China.
