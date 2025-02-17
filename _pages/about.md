@@ -58,7 +58,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
     <br>*<span style="color:#cd3278">\[ICSE'25\]</span> The 47th IEEE/ACM International Conference on Software Engineering, Industry Challenge Track* [[PDF](https://xinyi-hou.github.io/files/ke2024clausebench.pdf)] [[DOI](https://conf.researchr.org/details/icse-2025/icse-2025-industry-challenge-track/3/ClauseBench-Enhancing-Software-License-Analysis-with-Clause-Level-Benchmarking)]
 * **Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
     <br>Jian Zhao\*, Shenao Wang\*, Yanjie Zhao, **Xinyi Hou**, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[ASE'24\]</span> The 39th IEEE/ACM International Conference on Automated Software Engineering, Industry Showcase (Full Paper), 2024* [[PDF](https://xinyi-hou.github.io/files/zhao2024models.pdf)] [[DOI](https://dl.acm.org/doi/10.1145/3691620.3695271)]
+    <br>*<span style="color:#cd3278">\[ASE'24\]</span> The 39th IEEE/ACM International Conference on Automated Software Engineering, Industry Showcase, 2024* [[PDF](https://xinyi-hou.github.io/files/zhao2024models.pdf)] [[DOI](https://dl.acm.org/doi/10.1145/3691620.3695271)]
 * **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
     <br>*<span style="color:#cd3278">\[ASE'24\]</span> The 39th IEEE/ACM International Conference on Automated Software Engineering, NIER Track* [[PDF](https://xinyi-hou.github.io/files/hou2024gptzoo.pdf)] [[DOI](https://dl.acm.org/doi/10.1145/3691620.3695309)]
