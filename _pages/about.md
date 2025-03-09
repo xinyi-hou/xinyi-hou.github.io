@@ -69,17 +69,17 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 ## <span style="color:grey">Preprint</span> 
 
 * **The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy**
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://arxiv.org/abs/2503.04596)]
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://arxiv.org/pdf/2503.04596)]
 * **Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030**
     <br>Shenao Wang\*, Yanjie Zhao\*, Yinglin Xie, Zhao Liu, **Xinyi Hou**, Quanchen Zou, Haoyu Wang [[Paper](https://arxiv.org/pdf/2502.20812)]
 * **LLM App Squatting and Cloning**
-    <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Kai Chen, Haoyu Wang [[Paper](https://arxiv.org/abs/2411.07518)]
+    <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Kai Chen, Haoyu Wang [[Paper](https://arxiv.org/pdf/2411.07518)]
 * **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum**
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://arxiv.org/abs/2408.01687)]
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://arxiv.org/pdf/2408.01687)]
 * **On the (In)Security of LLM App Stores**
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://arxiv.org/abs/2407.08422)]
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://arxiv.org/pdf/2407.08422)]
 * **GPT Store Mining and Analysis**
-    <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://arxiv.org/abs/2405.10210)]
+    <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://arxiv.org/pdf/2405.10210)]
 
   
 # 📚 Educations
