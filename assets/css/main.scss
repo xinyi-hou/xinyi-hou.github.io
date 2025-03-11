@@ -128,14 +128,18 @@ h1:before, .anchor:before {
     text-decoration: none; 
 }
 
+
 .pdf {
-    background-color: #1891ac;
-    color: white;
-    border-radius: 4px;
-    padding: 2px 6px;
-    font-weight: normal;
+    background-color: #1891ac; /* 背景颜色 */
+    color: white; /* 文字颜色 */
+    border-radius: 3px; /* 圆角稍微减少 */
+    padding: 1px 4px; /* 减少内边距，让按钮更紧凑 */
+    font-size: 12px; /* 字体变小 */
+    font-weight: normal; /* 文字不加粗 */
     font-family: "Times New Roman", Times, serif; 
-    text-decoration: none; 
+    text-decoration: none; /* 去除下划线 */
+    display: inline-block; /* 让超链接像按钮一样 */
+    line-height: 1; /* 调整行高，避免按钮过高 */
 }
 
 .doi {
