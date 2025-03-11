@@ -108,11 +108,50 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.venue {
-    background-color: #cd3278;
+.journal {
+    background-color: #1891ac;
     color: white;
     border-radius: 4px;
     padding: 2px 6px;
     font-weight: bold;
     font-family: Arial;
 }
+
+.conference {
+    background-color: #ffaa64;
+    color: white;
+    border-radius: 4px;
+    padding: 2px 6px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.pdf {
+    background-color: #6c5b7c;
+    color: white;
+    border-radius: 4px;
+    padding: 2px 6px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.doi {
+    background-color: #005792;
+    color: white;
+    border-radius: 4px;
+    padding: 2px 6px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.repo {
+    background-color: #ed8d8d;
+    color: white;
+    border-radius: 4px;
+    padding: 2px 6px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+
+
