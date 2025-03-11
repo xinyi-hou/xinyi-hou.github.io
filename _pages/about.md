@@ -22,6 +22,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 # 🌷 News
 
 - 🔝 **Excited to announce the 1st workshop on [LLMapp](https://llmappworkshop.github.io/), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.**
+- [11 Mar 2025] Our paper titled "On the (In)Security of LLM App Stores" was accepted by S&P 2025!
 - [15 Jan 2025] Our paper titled "Bridging Design and Development with Automated Declarative UI Code Generation" was accepted by FSE 2025!
 - [19 Dec 2024] Our paper titled "ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking" was accepted by ICSE 2025, Industry Challenge Track!
 - [21 Nov 2024] Two papers on LLM Apps and Supply Chain were accepted by TOSEM 2030 SE Roadmap!
@@ -50,6 +51,9 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 * **Large Language Model Supply Chain: A Research Agenda**
     <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang
     <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* [[PDF](https://xinyi-hou.github.io/files/wang2024large.pdf)] [[DOI](https://dl.acm.org/doi/10.1145/3708531)]
+* **On the (In)Security of LLM App Stores**
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
+    <br>*<span style="color:#cd3278">\[S&P'25\]</span> The 46th IEEE Symposium on Security and Privacy* [[PDF](https://arxiv.org/pdf/2407.08422)]
 * **Bridging Design and Development with Automated Declarative UI Code Generation**
     <br>Ting Zhou\*, Yanjie Zhao\*, **Xinyi Hou**, Xiaoyu Sun, Kai Chen, Haoyu Wang
     <br>*<span style="color:#cd3278">\[FSE‘25\]</span>The ACM International Conference on the Foundations of Software Engineering* [[PDF](https://xinyi-hou.github.io/files/zhou2024bridging.pdf)] [[DOI](https://arxiv.org/abs/2409.11667)]
@@ -76,8 +80,6 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
     <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Kai Chen, Haoyu Wang [[Paper](https://arxiv.org/pdf/2411.07518)]
 * **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum**
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://arxiv.org/pdf/2408.01687)]
-* **On the (In)Security of LLM App Stores**
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://arxiv.org/pdf/2407.08422)]
 * **GPT Store Mining and Analysis**
     <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang [[Paper](https://arxiv.org/pdf/2405.10210)]
 
