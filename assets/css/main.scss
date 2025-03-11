@@ -114,7 +114,8 @@ h1:before, .anchor:before {
     border-radius: 4px;
     padding: 2px 6px;
     font-weight: bold;
-    font-family: Arial;
+    font-family: "Times New Roman", Times, serif; 
+    text-decoration: none; 
 }
 
 .conference {
@@ -123,16 +124,19 @@ h1:before, .anchor:before {
     border-radius: 4px;
     padding: 2px 6px;
     font-weight: bold;
-    font-family: Arial;
+    font-family: "Times New Roman", Times, serif; 
+    text-decoration: none; 
 }
 
 .pdf {
     background-color: #6c5b7c;
     color: white;
     border-radius: 4px;
-    padding: 2px 6px;
+    padding: 4px 10px;
     font-weight: bold;
-    font-family: Arial;
+    font-family: "Times New Roman", Times, serif; 
+    text-decoration: none; 
+    display: inline-block;
 }
 
 .doi {
@@ -141,7 +145,8 @@ h1:before, .anchor:before {
     border-radius: 4px;
     padding: 2px 6px;
     font-weight: bold;
-    font-family: Arial;
+    font-family: "Times New Roman", Times, serif; 
+    text-decoration: none; 
 }
 
 .repo {
@@ -150,7 +155,8 @@ h1:before, .anchor:before {
     border-radius: 4px;
     padding: 2px 6px;
     font-weight: bold;
-    font-family: Arial;
+    font-family: "Times New Roman", Times, serif; 
+    text-decoration: none; 
 }
 
 
