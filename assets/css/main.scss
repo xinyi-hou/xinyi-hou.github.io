@@ -147,6 +147,14 @@ h1:before, .anchor:before {
     font-family: "Times New Roman", Times, serif; 
     text-decoration: none; 
 }
+/* 让超链接在所有状态下都没有下划线 */
+.doi:link,
+.doi:visited,
+.doi:hover,
+.doi:active {
+    text-decoration: none !important; /* 强制去掉所有下划线 */
+    color: white !important; /* 确保颜色不会改变 */
+}
 
 .repo {
     background-color: #ed8d8d;
