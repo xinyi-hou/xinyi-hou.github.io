@@ -73,7 +73,7 @@ Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.
 ## <span style="color:grey">Preprint</span> 
 
 * **The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy**
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [[Paper](https://arxiv.org/pdf/2503.04596)]
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.04596)
 * **Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030**
     <br>Shenao Wang\*, Yanjie Zhao\*, Yinglin Xie, Zhao Liu, **Xinyi Hou**, Quanchen Zou, Haoyu Wang [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2502.20812)
 * **LLM App Squatting and Cloning**
