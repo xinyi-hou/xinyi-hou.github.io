@@ -17,8 +17,6 @@ My research interests include but are not limited to LLM Application Security an
 
 If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust.edu.cn).
 
-Here are my close friends' homepages: [Yanjie Zhao](https://yanjiezhao96.github.io/), [Shenao Wang](https://ShenaoW.github.io/), [Liu Wang](https://liuer-wang.github.io/), [Ningke Li](https://ningke-li.github.io/).
-
 # 🌷 News
 
 - 🔝 **Excited to announce the 1st workshop on [LLMapp](https://llmappworkshop.github.io/), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.**
