@@ -20,8 +20,8 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 # 🌷 News
 
 - 🔝 **Excited to announce the 1st workshop on [LLMapp](https://llmappworkshop.github.io/), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.**
-- [25 Mar 2025] Our paper titled "On the (In)Security of LLM App Stores" was accepted by S&P 2025!
-- [11 Mar 2025] Our paper titled "LLM App Squatting and Cloning" was accepted by FSE 2025, Industry Track!
+- [25 Mar 2025] Our paper titled "LLM App Squatting and Cloning" was accepted by FSE 2025, Industry Track!
+- [11 Mar 2025] Our paper titled "On the (In)Security of LLM App Stores" was accepted by S&P 2025!
 - [15 Jan 2025] Our paper titled "Bridging Design and Development with Automated Declarative UI Code Generation" was accepted by FSE 2025!
 - [19 Dec 2024] Our paper titled "ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking" was accepted by ICSE 2025, Industry Challenge Track!
 - [21 Nov 2024] Two papers on LLM Apps and Supply Chain were accepted by TOSEM 2030 SE Roadmap!
