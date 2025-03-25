@@ -84,7 +84,7 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
     <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2405.10210)
 
   
-# 📚 Educations
+# 📚 Education
 
 * 2019.09 - 2023.06, B.Eng., Northeastern University, Shenyang, China.
 * 2023.09 till now, Ph.D., Huazhong University of Science and Technology, Wuhan, China.
