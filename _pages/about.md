@@ -26,7 +26,7 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 - [21 Nov 2024] Two papers on LLM Apps and Supply Chain were accepted by TOSEM 2030 SE Roadmap!
 - [15-17 Nov 2024] We won the third prize in the Software Research Prototype System Competition of ChinaSoft 2024.
 - [8-9 Nov 2024] I attended the AI+ Development Digital Summit in Shenzhen, China.
-- [27 Aug 2024] Our paper titled "Large language models for software engineering: A systematic literature review" was accepted by TOSEM!
+- [27 Aug 2024] Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" was accepted by TOSEM!
 - [24 Aug 2024] Our paper titled "Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs" was accepted by ASE 2024, Industry Showcase!
 - [4 Aug 2024] Our paper titled "GPTZoo: A Large-scale Dataset of GPTs for the Research Community" was accepted by ASE 2024, NIER Track!
 - [1-3 Dec 2023] I attended the CCF ChinaSoft 2023 Conference in Shanghai, China.
@@ -40,7 +40,7 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 
 ## <span style="color:grey">Peer-Reviewed</span>
 
-* **Large language models for software engineering: A systematic literature review**
+* **Large Language Models for Software Engineering: A Systematic Literature Review**
   <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang
   <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2023large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/abs/10.1145/3695988) [<span class="repo">Repo</span>](https://github.com/xinyi-hou/LLM4SE_SLR)
 * **On the (In)Security of LLM App Stores**
