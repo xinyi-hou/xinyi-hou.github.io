@@ -10,7 +10,7 @@ main:
     url: "/#-publications"
 
   - title: "Education"
-    url: "/#-educations"
+    url: "/#-education"
 
   - title: "Services"
     url: "/#-services"
