@@ -41,47 +41,47 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 
 ## <span style="color:grey">Peer-Reviewed</span>
 
-* **Large Language Models for Software Engineering: A Systematic Literature Review**
+* **Large Language Models for Software Engineering: A Systematic Literature Review** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2023large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3695988) [<span class="repo">Repo</span>](https://github.com/xinyi-hou/LLM4SE_SLR)
   <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang
-  <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2023large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3695988) [<span class="repo">Repo</span>](https://github.com/xinyi-hou/LLM4SE_SLR)
-* **On the (In)Security of LLM App Stores**
+  <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* 
+* **On the (In)Security of LLM App Stores** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2407.08422)
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[S&P'25\]</span> The 46th IEEE Symposium on Security and Privacy* [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2407.08422)
-* **LLM App Store Analysis: A Vision and Roadmap**
+    <br>*<span style="color:#cd3278">\[S&P'25\]</span> The 46th IEEE Symposium on Security and Privacy* 
+* **LLM App Store Analysis: A Vision and Roadmap**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2024llm.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708530)
     <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2024llm.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708530)
-* **Large Language Model Supply Chain: A Research Agenda**
+    <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology*
+* **Large Language Model Supply Chain: A Research Agenda** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2024large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708531)
     <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2024large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708531)
-* **LLM App Squatting and Cloning**
+    <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* 
+* **LLM App Squatting and Cloning** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2411.07518)
     <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Kai Chen, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[FSE'25\]</span> The ACM International Conference on the Foundations of Software Engineering, Industry Track* [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2411.07518)
-* **Bridging Design and Development with Automated Declarative UI Code Generation**
+    <br>*<span style="color:#cd3278">\[FSE'25\]</span> The ACM International Conference on the Foundations of Software Engineering, Industry Track* 
+* **Bridging Design and Development with Automated Declarative UI Code Generation** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhou2024bridging.pdf) [<span class="doi">DOI</span>](https://arxiv.org/abs/2409.11667)
     <br>Ting Zhou\*, Yanjie Zhao\*, **Xinyi Hou**, Xiaoyu Sun, Kai Chen, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[FSE'25\]</span> The ACM International Conference on the Foundations of Software Engineering* [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhou2024bridging.pdf) [<span class="doi">DOI</span>](https://arxiv.org/abs/2409.11667)
-* **ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking**
+    <br>*<span style="color:#cd3278">\[FSE'25\]</span> The ACM International Conference on the Foundations of Software Engineering*
+* **ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/ke2024clausebench.pdf) [<span class="doi">DOI</span>](https://conf.researchr.org/details/icse-2025/icse-2025-industry-challenge-track/3/ClauseBench-Enhancing-Software-License-Analysis-with-Clause-Level-Benchmarking) [<span class="repo">Repo</span>](https://github.com/security-pride/CLAUSEBENCH)
     <br>Qiang Ke\*, **Xinyi Hou**\*, Yanjie Zhao, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[ICSE'25\]</span> The 47th IEEE/ACM International Conference on Software Engineering, Industry Challenge Track* [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/ke2024clausebench.pdf) [<span class="doi">DOI</span>](https://conf.researchr.org/details/icse-2025/icse-2025-industry-challenge-track/3/ClauseBench-Enhancing-Software-License-Analysis-with-Clause-Level-Benchmarking) [<span class="repo">Repo</span>](https://github.com/security-pride/CLAUSEBENCH)
-* **Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
+    <br>*<span style="color:#cd3278">\[ICSE'25\]</span> The 47th IEEE/ACM International Conference on Software Engineering, Industry Challenge Track*
+* **Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2024models.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3691620.3695271) [<span class="repo">Repo</span>](https://github.com/security-pride/MalHug)
     <br>Jian Zhao\*, Shenao Wang\*, Yanjie Zhao, **Xinyi Hou**, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[ASE'24\]</span> The 39th IEEE/ACM International Conference on Automated Software Engineering, Industry Showcase* [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2024models.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3691620.3695271) [<span class="repo">Repo</span>](https://github.com/security-pride/MalHug)
-* **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
+    <br>*<span style="color:#cd3278">\[ASE'24\]</span> The 39th IEEE/ACM International Conference on Automated Software Engineering, Industry Showcase*
+* **GPTZoo: A Large-scale Dataset of GPTs for the Research Community** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2024gptzoo.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3691620.3695309) [<span class="repo">Repo</span>](https://github.com/security-pride/GPTZoo)
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[ASE'24\]</span> The 39th IEEE/ACM International Conference on Automated Software Engineering, NIER Track* [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2024gptzoo.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3691620.3695309) [<span class="repo">Repo</span>](https://github.com/security-pride/GPTZoo)
-* **ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle**
+    <br>*<span style="color:#cd3278">\[ASE'24\]</span> The 39th IEEE/ACM International Conference on Automated Software Engineering, NIER Track* 
+* **ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wu2024chatgpt.pdf) [<span class="doi">DOI</span>](https://ieeexplore.ieee.org/abstract/document/10555800)
     <br>Liangxuan Wu, Yanjie Zhao, **Xinyi Hou**, Tianming Liu, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[MSR'24\]</span> The 21st IEEE/ACM International Conference on Mining Software Repositories* [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wu2024chatgpt.pdf) [<span class="doi">DOI</span>](https://ieeexplore.ieee.org/abstract/document/10555800)
+    <br>*<span style="color:#cd3278">\[MSR'24\]</span> The 21st IEEE/ACM International Conference on Mining Software Repositories* 
 
 ## <span style="color:grey">Preprint</span> 
 
-* **The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy**
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.04596)
-* **Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030**
-    <br>Shenao Wang\*, Yanjie Zhao\*, Yinglin Xie, Zhao Liu, **Xinyi Hou**, Quanchen Zou, Haoyu Wang [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2502.20812)
-* **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum**
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2408.01687)
-* **GPT Store Mining and Analysis**
-    <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2405.10210)
+* **The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.04596)
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang 
+* **Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2502.20812)
+    <br>Shenao Wang\*, Yanjie Zhao\*, Yinglin Xie, Zhao Liu, **Xinyi Hou**, Quanchen Zou, Haoyu Wang 
+* **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2408.01687)
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang 
+* **GPT Store Mining and Analysis** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2405.10210)
+    <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang 
 
   
 # 📚 Education
