@@ -19,7 +19,7 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 
 # 🌷 News
 
-- 🔝 **Excited to announce the 1st workshop on [LLMapp](https://llmappworkshop.github.io/), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.**
+- 🔝 **Excited to announce the 1st International Workshop on LLM App Store Analysis（[LLMapp](https://llmappworkshop.github.io/)）, co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.**
 - [31 Mar 2025] Our paper titled "GPT Store Mining and Analysis" was accepted by Internetware 2025!
 - [25 Mar 2025] Our paper titled "LLM App Squatting and Cloning" was accepted by FSE 2025, Industry Track!
 - [11 Mar 2025] Our paper titled "On the (In)Security of LLM App Stores" was accepted by S&P 2025!
