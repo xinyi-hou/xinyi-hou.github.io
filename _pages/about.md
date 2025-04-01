@@ -13,14 +13,13 @@ redirect_from:
 
 Hi, there! I’m a Ph.D. student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST), under the supervision of Prof. [Haoyu Wang](https://howiepku.github.io/). Previously, I received my B.Eng. degree at Northeastern University (NEU) in June 2023. 
 
-My research interests include but are not limited to LLM Application Security and LLM + SE.
+My research interests include, but are not limited to, LLM application security and LLM + SE.
 
 If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust.edu.cn).
 
 # 🌷 News
 
 - 🔝 **Excited to announce the 1st workshop on [LLMapp](https://llmappworkshop.github.io/), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.**
-- [1 Apr 2025] Our paper titled "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions" was available at [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.23278)!
 - [31 Mar 2025] Our paper titled "GPT Store Mining and Analysis" was accepted by Internetware 2025!
 - [25 Mar 2025] Our paper titled "LLM App Squatting and Cloning" was accepted by FSE 2025, Industry Track!
 - [11 Mar 2025] Our paper titled "On the (In)Security of LLM App Stores" was accepted by S&P 2025!
