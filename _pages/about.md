@@ -20,17 +20,14 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 # 🌷 News
 
 - 🔝 **Excited to announce the 1st workshop on [LLMapp](https://llmappworkshop.github.io/), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.**
+- [1 Apr 2025] Our paper titled "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions" was available at [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.23278)!
 - [31 Mar 2025] Our paper titled "GPT Store Mining and Analysis" was accepted by Internetware 2025!
 - [25 Mar 2025] Our paper titled "LLM App Squatting and Cloning" was accepted by FSE 2025, Industry Track!
 - [11 Mar 2025] Our paper titled "On the (In)Security of LLM App Stores" was accepted by S&P 2025!
-- [15 Jan 2025] Our paper titled "Bridging Design and Development with Automated Declarative UI Code Generation" was accepted by FSE 2025!
-- [19 Dec 2024] Our paper titled "ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking" was accepted by ICSE 2025, Industry Challenge Track!
 - [21 Nov 2024] Two papers on LLM Apps and Supply Chain were accepted by TOSEM 2030 SE Roadmap!
 - [15-17 Nov 2024] We won the third prize in the Software Research Prototype System Competition of ChinaSoft 2024.
 - [8-9 Nov 2024] I attended the AI+ Development Digital Summit in Shenzhen, China.
 - [27 Aug 2024] Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" was accepted by TOSEM!
-- [24 Aug 2024] Our paper titled "Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs" was accepted by ASE 2024, Industry Showcase!
-- [4 Aug 2024] Our paper titled "GPTZoo: A Large-scale Dataset of GPTs for the Research Community" was accepted by ASE 2024, NIER Track!
 - [1-3 Dec 2023] I attended the CCF ChinaSoft 2023 Conference in Shanghai, China.
 - [20-22 Oct 2023] I attended the CCF Advanced Disciplines Lectures (ADL), Session 144, on the topic of Code Generation Based on large language models in Beijing, China.
 - [28 Jun 2023] I received my B.Eng. degree at Northeastern University. 
@@ -54,6 +51,12 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 * **GPT Store Mining and Analysis** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2405.10210)
     <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang
     <br>*<span style="color:#cd3278">\[Internetware'25\]</span> The 16th International Conference on Internetware*
+* **The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.04596)
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
+    <br>*<span style="color:#cd3278">\[SE2030'25\]</span> Software Engineering in 2030 Workshop*
+* **Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2502.20812)
+    <br>Shenao Wang\*, Yanjie Zhao\*, Yinglin Xie, Zhao Liu, **Xinyi Hou**, Quanchen Zou, Haoyu Wang
+    <br>*<span style="color:#cd3278">\[SE2030'25\]</span> Software Engineering in 2030 Workshop*
 * **LLM App Store Analysis: A Vision and Roadmap**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2024llm.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708530)
     <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
     <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology*
@@ -78,10 +81,8 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 
 ## <span style="color:grey">Preprint</span> 
 
-* **The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.04596)
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang 
-* **Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2502.20812)
-    <br>Shenao Wang\*, Yanjie Zhao\*, Yinglin Xie, Zhao Liu, **Xinyi Hou**, Quanchen Zou, Haoyu Wang 
+* **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.23278)
+    <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang 
 * **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2408.01687)
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang 
 
