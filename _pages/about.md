@@ -44,7 +44,7 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 * **On the (In)Security of LLM App Stores** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025insecurity)
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
     <br>*<span style="color:#cd3278">\[S&P'25\]</span> The 46th IEEE Symposium on Security and Privacy* 
-* **LLM App Squatting and Cloning** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2411.07518)
+* **LLM App Squatting and Cloning** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/xie2024squatting)
     <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Kai Chen, Haoyu Wang
     <br>*<span style="color:#cd3278">\[FSE'25\]</span> The ACM International Conference on the Foundations of Software Engineering, Industry Track* 
 * **GPT Store Mining and Analysis** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2405.10210)
