@@ -21,7 +21,7 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 
 - 🔝 **Excited to announce the 1st International Workshop on LLM App Store Analysis（[LLMapp](https://llmappworkshop.github.io/)）, co-located with [FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.**
 - 🔝 **Excited to announce the 1st International Workshop on Large Language Model Supply Chain Analysis ([LLMSC 2025](https://llmsc.github.io/)), co-located with [ISSTA 2025](https://conf.researchr.org/home/issta-2025)! Join us in Trondheim, Norway.**
-- [1 Apr 2025] Latest paper: "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions"! [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.23278)
+- [1 Apr 2025] Latest paper: "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions"! [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025mcp.pdf)
 - [31 Mar 2025] Our paper titled "GPT Store Mining and Analysis" was accepted by Internetware 2025!
 - [25 Mar 2025] Our paper titled "LLM App Squatting and Cloning" was accepted by FSE 2025, Industry Track!
 - [11 Mar 2025] Our paper titled "On the (In)Security of LLM App Stores" was accepted by S&P 2025!
@@ -82,7 +82,7 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 
 ## <span style="color:grey">Preprint</span> 
 
-* **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.23278)
+* **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** [<span class="pdf">PDF</span>]([https://arxiv.org/pdf/2503.23278](https://xinyi-hou.github.io/files/hou2025mcp.pdf))
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang 
 * **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2408.01687)
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang 
