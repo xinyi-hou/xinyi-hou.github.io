@@ -82,7 +82,7 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 
 ## <span style="color:grey">Preprint</span> 
 
-* **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** [<span class="pdf">PDF</span>]([https://arxiv.org/pdf/2503.23278](https://xinyi-hou.github.io/files/hou2025mcp.pdf)
+* **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025mcp.pdf)
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang 
 * **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2408.01687)
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang 
