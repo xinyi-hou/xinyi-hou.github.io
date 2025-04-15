@@ -98,8 +98,9 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
     <br>Automated Software Engineering (ASE), Empirical Software Engineering (EMSE)
 * **Sub-Reviewer**
     <br>ISSTA’24, FSE’25, IMC’24/25, IWQoS’25, APSEC’24
-* **Publicity Chair**
+* **Publicity & Web Chair**
     <br>The 1st International Workshop on LLM App Store Analysis (LLMapp 2025)
+    <br>The 1st International Workshop on Large Language Model Supply Chain Analysis (LLMSC 2025)
   
 # 🏆 Honors and Awards
 * 2023 - Outstanding Graduates of Liaoning Province
