@@ -95,10 +95,10 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 * 2023.09 till now, Ph.D., Huazhong University of Science and Technology, Wuhan, China.
 
 # 💼 Services
-* **PC Member**
-    <br>LLMapp 2025
 * **Journal Reviewer**
     <br>ACM Transactions on Software Engineering and Methodology (TOSEM), Automated Software Engineering (ASE), Empirical Software Engineering (EMSE)
+* **PC Member**
+    <br>LLMapp 2025
 * **Sub-Reviewer**
     <br>ISSTA’24, FSE’25, IMC’24/25, IWQoS’25, APSEC’24
 * **Publicity & Web Chair**
