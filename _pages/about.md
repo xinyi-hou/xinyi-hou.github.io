@@ -98,11 +98,11 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 * **Journal Reviewer**
     <br>ACM Transactions on Software Engineering and Methodology (TOSEM), Automated Software Engineering (ASE), Empirical Software Engineering (EMSE)
 * **PC Member**
-    <br>LLMapp 2025
+    <br>LLMapp 2025 (co-located with FSE 2025)
 * **Sub-Reviewer**
     <br>ISSTA’24, FSE’25, IMC’24/25, IWQoS’25, APSEC’24
 * **Publicity & Web Chair**
-    <br>LLMapp 2025, LLMSC 2025
+    <br>LLMapp 2025 (co-located with FSE 2025), LLMSC 2025 (co-located with ISSTA 2025)
   
 # 🏆 Honors and Awards
 * 2023 - Outstanding Graduates of Liaoning Province
