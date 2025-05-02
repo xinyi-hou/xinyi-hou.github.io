@@ -38,6 +38,11 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 
 **(\* Equal Contribution)**
 
+## <span style="color:grey">Preprint</span> 
+
+* **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025mcp.pdf)
+    <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang 
+
 ## <span style="color:grey">Peer-Reviewed</span>
 
 * **Large Language Models for Software Engineering: A Systematic Literature Review** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2023large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3695988) [<span class="repo">Repo</span>](https://github.com/xinyi-hou/LLM4SE_SLR)
@@ -83,10 +88,6 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
     <br>Liangxuan Wu, Yanjie Zhao, **Xinyi Hou**, Tianming Liu, Haoyu Wang
     <br>*<span style="color:#cd3278">\[MSR'24\]</span> The 21st IEEE/ACM International Conference on Mining Software Repositories* 
 
-## <span style="color:grey">Preprint</span> 
-
-* **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025mcp.pdf)
-    <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang 
 
   
 # 📚 Education
