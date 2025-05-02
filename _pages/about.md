@@ -43,7 +43,7 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 * **Large Language Models for Software Engineering: A Systematic Literature Review** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2023large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3695988) [<span class="repo">Repo</span>](https://github.com/xinyi-hou/LLM4SE_SLR)
   <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang
   <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* 
-* **On the (In)Security of LLM App Stores** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025insecurity.pdf)
+* **On the (In)Security of LLM App Stores** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025insecurity.pdf) [<span class="doi">DOI</span>](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a298/26hiTDjKxoc)
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
     <br>*<span style="color:#cd3278">\[S&P'25\]</span> The 46th IEEE Symposium on Security and Privacy* 
 * **LLM App Squatting and Cloning** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/xie2024squatting.pdf)
