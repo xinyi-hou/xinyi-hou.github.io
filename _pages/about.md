@@ -40,6 +40,8 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 
 ## <span style="color:grey">Preprint</span> 
 
+* **Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025unveiling.pdf)
+    <br>**Xinyi Hou**\*, Jiahao Han\*, Yanjie Zhao, Haoyu Wang 
 * **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025mcp.pdf)
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang 
 
