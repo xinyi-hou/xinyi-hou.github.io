@@ -15,7 +15,7 @@ I am currently pursuing my Ph.D. in the School of Cyber Science and Engineering 
 
 My research interests include, but are not limited to, the **security of large language model (LLM) applications**. Specifically, my work focuses on LLM app stores, model deployment, and the Model Context Protocol (MCP).
 
-If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust.edu.cn).
+If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xinyihou@hust.edu.cn).
 
 # 🌷 News
 
