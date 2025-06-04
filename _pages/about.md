@@ -58,9 +58,6 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **GPT Store Mining and Analysis** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2405.10210)
     <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang
     <br>*<span style="color:#cd3278">\[Internetware'25\]</span> The 16th International Conference on Internetware*
-* **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2408.01687)
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[Internetware'25\]</span> The 16th International Conference on Internetware*
 * **The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.04596)
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
     <br>*<span style="color:#cd3278">\[FSEws2025\]</span> The Future Software Engineering Workshop, co-located with FSE 2025*
