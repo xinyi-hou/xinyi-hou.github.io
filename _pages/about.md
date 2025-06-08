@@ -21,13 +21,8 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 
 - 🔝 **Excited to announce the 1st International Workshop on LLM App Store Analysis（[LLMapp](https://llmappworkshop.github.io/)）, co-located with [FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.**
 - 🔝 **Excited to announce the 1st International Workshop on Large Language Model Supply Chain Analysis ([LLMSC 2025](https://llmsc.github.io/)), co-located with [ISSTA 2025](https://conf.researchr.org/home/issta-2025)! Join us in Trondheim, Norway.**
-- [31 Mar 2025] Our paper titled "GPT Store Mining and Analysis" was accepted by Internetware 2025!
-- [25 Mar 2025] Our paper titled "LLM App Squatting and Cloning" was accepted by FSE 2025, Industry Track!
-- [11 Mar 2025] Our paper titled "On the (In)Security of LLM App Stores" was accepted by S&P 2025!
-- [21 Nov 2024] Two papers on LLM Apps and Supply Chain were accepted by TOSEM 2030 SE Roadmap!
 - [15-17 Nov 2024] We won the third prize in the Software Research Prototype System Competition of ChinaSoft 2024.
 - [8-9 Nov 2024] I attended the AI+ Development Digital Summit in Shenzhen, China.
-- [27 Aug 2024] Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" was accepted by TOSEM!
 - [1-3 Dec 2023] I attended the CCF ChinaSoft 2023 Conference in Shanghai, China.
 - [20-22 Oct 2023] I attended the CCF Advanced Disciplines Lectures (ADL), Session 144, on the topic of Code Generation Based on large language models in Beijing, China.
 - [28 Jun 2023] I received my B.Eng. degree at Northeastern University. 
