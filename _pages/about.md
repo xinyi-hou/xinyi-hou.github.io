@@ -34,6 +34,8 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 
 ## <span style="color:grey">Preprint</span> 
 
+* **Toward Understanding Bugs in Vector Database Management Systems** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/xie2025toward.pdf)
+    <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Shenao Wang, Kai Chen, Haoyu Wang
 * **Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025unveiling.pdf)
     <br>**Xinyi Hou**\*, Jiahao Han\*, Yanjie Zhao, Haoyu Wang 
 * **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025mcp.pdf)
