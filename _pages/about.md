@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🍦 About Me
 
-I am currently pursuing my Ph.D. in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST), as a member of the **SECURITY PRIDE** Research Group (**Security**, **Pri**vacy, and **De**pendability in Emerging Software Systems), under the supervision of Prof. [Haoyu Wang](https://howiepku.github.io/). Previously, I received my B.Eng. degree at Northeastern University (NEU) in June 2023. 
+Hello, I am Xinyi Hou (侯心怡). I am currently pursuing my Ph.D. in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST), as a member of the **SECURITY PRIDE** Research Group (**Security**, **Pri**vacy, and **De**pendability in Emerging Software Systems), under the supervision of Prof. [Haoyu Wang](https://howiepku.github.io/). Previously, I received my B.Eng. degree at Northeastern University (NEU) in June 2023. 
 
 My research interests include, but are not limited to, the **security of large language model (LLM) applications**. Specifically, my work focuses on LLM app stores, model deployment, and the Model Context Protocol (MCP).
 
