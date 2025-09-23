@@ -36,7 +36,7 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 
 * **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025mcp.pdf)
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
-* **Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025unveiling.pdf)
+* **Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2505.02502)
     <br>**Xinyi Hou**\*, Jiahao Han\*, Yanjie Zhao, Haoyu Wang
 * **LaQual: A Novel Framework for Automated Evaluation of LLM App Quality** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2025laqual.pdf)
     <br>Yan Wang, **Xinyi Hou**, Yanjie Zhao, Weiguo Lin, Haoyu Wang, Junjun Si
