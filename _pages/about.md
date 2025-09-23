@@ -60,12 +60,12 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **GPTZoo: A Large-scale Dataset of GPTs for the Research Community** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2024gptzoo.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3691620.3695309) [<span class="repo">Repo</span>](https://github.com/security-pride/GPTZoo)
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
     <br>*<span style="color:#cd3278">\[ASE'24\]</span> The 39th IEEE/ACM International Conference on Automated Software Engineering, NIER Track*
-* **The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.04596)
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[FSEws2025\]</span> The Future Software Engineering Workshop, co-located with FSE 2025*
 * **ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/ke2024clausebench.pdf) [<span class="doi">DOI</span>](https://conf.researchr.org/details/icse-2025/icse-2025-industry-challenge-track/3/ClauseBench-Enhancing-Software-License-Analysis-with-Clause-Level-Benchmarking) [<span class="repo">Repo</span>](https://github.com/security-pride/CLAUSEBENCH)
     <br>Qiang Ke\*, **Xinyi Hou**\*, Yanjie Zhao, Haoyu Wang
     <br>*<span style="color:#cd3278">\[ICSE'25\]</span> The 47th IEEE/ACM International Conference on Software Engineering, Industry Challenge Track*
+* **The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.04596)
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
+    <br>*<span style="color:#cd3278">\[FSEws2025\]</span> The Future Software Engineering Workshop, co-located with FSE 2025*
 * **LLM App Store Analysis: A Vision and Roadmap**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2024llm.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708530)
     <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
     <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology*
