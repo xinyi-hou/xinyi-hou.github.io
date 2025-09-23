@@ -36,14 +36,14 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 
 * **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025mcp.pdf)
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
-* **Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/rao2025software.pdf)
-    <br>Hongzhou Rao*, Yanjie Zhao*, **Xinyi Hou**, Shenao Wang, Haoyu Wang
+* **Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025unveiling.pdf)
+    <br>**Xinyi Hou**\*, Jiahao Han\*, Yanjie Zhao, Haoyu Wang
 * **LaQual: A Novel Framework for Automated Evaluation of LLM App Quality** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2025laqual.pdf)
     <br>Yan Wang, **Xinyi Hou**, Yanjie Zhao, Weiguo Lin, Haoyu Wang, Junjun Si
 * **Toward Understanding Bugs in Vector Database Management Systems** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/xie2025toward.pdf)
     <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Shenao Wang, Kai Chen, Haoyu Wang
-* **Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025unveiling.pdf)
-    <br>**Xinyi Hou**\*, Jiahao Han\*, Yanjie Zhao, Haoyu Wang 
+* **Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/rao2025software.pdf)
+    <br>Hongzhou Rao*, Yanjie Zhao*, **Xinyi Hou**, Shenao Wang, Haoyu Wang
 
 
 ## <span style="color:grey">Peer-Reviewed</span>
@@ -51,43 +51,42 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **Large Language Models for Software Engineering: A Systematic Literature Review** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2024large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3695988) [<span class="repo">Repo</span>](https://github.com/xinyi-hou/LLM4SE_SLR)
   <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang
   <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology*
+* **On the (In)Security of LLM App Stores** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025insecurity.pdf) [<span class="doi">DOI</span>](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a298/26hiTDjKxoc)
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
+    <br>*<span style="color:#cd3278">\[S&P'25\]</span> The 46th IEEE Symposium on Security and Privacy*
+* **LLM App Squatting and Cloning** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/xie2024squatting.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3696630.3728532)
+    <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Kai Chen, Haoyu Wang
+    <br>*<span style="color:#cd3278">\[FSE'25\]</span> The ACM International Conference on the Foundations of Software Engineering, Industry Track* 
+* **GPTZoo: A Large-scale Dataset of GPTs for the Research Community** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2024gptzoo.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3691620.3695309) [<span class="repo">Repo</span>](https://github.com/security-pride/GPTZoo)
+    <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
+    <br>*<span style="color:#cd3278">\[ASE'24\]</span> The 39th IEEE/ACM International Conference on Automated Software Engineering, NIER Track*
+* **The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.04596)
+    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
+    <br>*<span style="color:#cd3278">\[FSEws2025\]</span> The Future Software Engineering Workshop, co-located with FSE 2025*
+* **ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/ke2024clausebench.pdf) [<span class="doi">DOI</span>](https://conf.researchr.org/details/icse-2025/icse-2025-industry-challenge-track/3/ClauseBench-Enhancing-Software-License-Analysis-with-Clause-Level-Benchmarking) [<span class="repo">Repo</span>](https://github.com/security-pride/CLAUSEBENCH)
+    <br>Qiang Ke\*, **Xinyi Hou**\*, Yanjie Zhao, Haoyu Wang
+    <br>*<span style="color:#cd3278">\[ICSE'25\]</span> The 47th IEEE/ACM International Conference on Software Engineering, Industry Challenge Track*
 * **LLM App Store Analysis: A Vision and Roadmap**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2024llm.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708530)
     <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
     <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology*
 * **Large Language Model Supply Chain: A Research Agenda** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2024large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708531)
     <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang
     <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* 
-* **On the (In)Security of LLM App Stores** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025insecurity.pdf) [<span class="doi">DOI</span>](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a298/26hiTDjKxoc)
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[S&P'25\]</span> The 46th IEEE Symposium on Security and Privacy* 
-* **LLM App Squatting and Cloning** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/xie2024squatting.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3696630.3728532)
-    <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Kai Chen, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[FSE'25\]</span> The ACM International Conference on the Foundations of Software Engineering, Industry Track* 
 * **GPT Store Mining and Analysis** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/su2025gpt.pdf)
     <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang
     <br>*<span style="color:#cd3278">\[Internetware'25\]</span> The 16th International Conference on Internetware*
-* **The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.04596)
-    <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[FSEws2025\]</span> The Future Software Engineering Workshop, co-located with FSE 2025*
 * **Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2502.20812)
     <br>Shenao Wang\*, Yanjie Zhao\*, Yinglin Xie, Zhao Liu, **Xinyi Hou**, Quanchen Zou, Haoyu Wang
     <br>*<span style="color:#cd3278">\[FSEws2025\]</span> The Future Software Engineering Workshop, co-located with FSE 2025*
 * **Bridging Design and Development with Automated Declarative UI Code Generation** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhou2024bridging.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3715726)
     <br>Ting Zhou\*, Yanjie Zhao\*, **Xinyi Hou**, Xiaoyu Sun, Kai Chen, Haoyu Wang
     <br>*<span style="color:#cd3278">\[FSE'25\]</span> The ACM International Conference on the Foundations of Software Engineering*
-* **ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/ke2024clausebench.pdf) [<span class="doi">DOI</span>](https://conf.researchr.org/details/icse-2025/icse-2025-industry-challenge-track/3/ClauseBench-Enhancing-Software-License-Analysis-with-Clause-Level-Benchmarking) [<span class="repo">Repo</span>](https://github.com/security-pride/CLAUSEBENCH)
-    <br>Qiang Ke\*, **Xinyi Hou**\*, Yanjie Zhao, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[ICSE'25\]</span> The 47th IEEE/ACM International Conference on Software Engineering, Industry Challenge Track*
 * **Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2024models.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3691620.3695271) [<span class="repo">Repo</span>](https://github.com/security-pride/MalHug)
     <br>Jian Zhao\*, Shenao Wang\*, Yanjie Zhao, **Xinyi Hou**, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei, Haoyu Wang
     <br>*<span style="color:#cd3278">\[ASE'24\]</span> The 39th IEEE/ACM International Conference on Automated Software Engineering, Industry Showcase*
-* **GPTZoo: A Large-scale Dataset of GPTs for the Research Community** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2024gptzoo.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3691620.3695309) [<span class="repo">Repo</span>](https://github.com/security-pride/GPTZoo)
-    <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[ASE'24\]</span> The 39th IEEE/ACM International Conference on Automated Software Engineering, NIER Track* 
 * **ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wu2024chatgpt.pdf) [<span class="doi">DOI</span>](https://ieeexplore.ieee.org/abstract/document/10555800)
     <br>Liangxuan Wu, Yanjie Zhao, **Xinyi Hou**, Tianming Liu, Haoyu Wang
     <br>*<span style="color:#cd3278">\[MSR'24\]</span> The 21st IEEE/ACM International Conference on Mining Software Repositories* 
-
 
   
 # 📚 Education
