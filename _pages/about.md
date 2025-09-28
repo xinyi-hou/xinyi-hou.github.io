@@ -54,6 +54,9 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **On the (In)Security of LLM App Stores** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025insecurity.pdf) [<span class="doi">DOI</span>](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a298/26hiTDjKxoc)
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
     <br>*<span style="color:#cd3278">\[S&P'25\]</span> The 46th IEEE Symposium on Security and Privacy*
+* **LLM App Store Analysis: A Vision and Roadmap**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2024llm.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708530)
+    <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
+    <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology*
 * **LLM App Squatting and Cloning** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/xie2024squatting.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3696630.3728532)
     <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Kai Chen, Haoyu Wang
     <br>*<span style="color:#cd3278">\[FSE'25\]</span> The ACM International Conference on the Foundations of Software Engineering, Industry Track* 
@@ -66,9 +69,6 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.04596)
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
     <br>*<span style="color:#cd3278">\[FSEws2025\]</span> The Future Software Engineering Workshop, co-located with FSE 2025*
-* **LLM App Store Analysis: A Vision and Roadmap**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2024llm.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708530)
-    <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology*
 * **Large Language Model Supply Chain: A Research Agenda** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2024large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708531)
     <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang
     <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* 
