@@ -51,13 +51,13 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **Large Language Models for Software Engineering: A Systematic Literature Review** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2024large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3695988) [<span class="repo">Repo</span>](https://github.com/xinyi-hou/LLM4SE_SLR)
   <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang
   <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology*
-* **On the (In)Security of LLM App Stores** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025insecurity.pdf) [<span class="doi">DOI</span>](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a298/26hiTDjKxoc)
+* **On the (In)Security of LLM App Stores** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025insecurity.pdf) [<span class="doi">DOI</span>](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a298/26hiTDjKxoc) [<span class="repo">Repo</span>](https://github.com/security-pride/LLM-App-Security)
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
     <br>*<span style="color:#cd3278">\[S&P'25\]</span> The 46th IEEE Symposium on Security and Privacy*
 * **LLM App Store Analysis: A Vision and Roadmap**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2024llm.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708530)
     <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
     <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology*
-* **LLM App Squatting and Cloning** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/xie2024squatting.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3696630.3728532)
+* **LLM App Squatting and Cloning** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/xie2024squatting.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3696630.3728532)  [<span class="repo">Repo</span>](https://github.com/security-pride/LLMappCrazy)
     <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Kai Chen, Haoyu Wang
     <br>*<span style="color:#cd3278">\[FSE'25\]</span> The ACM International Conference on the Foundations of Software Engineering, Industry Track* 
 * **GPTZoo: A Large-scale Dataset of GPTs for the Research Community** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2024gptzoo.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3691620.3695309) [<span class="repo">Repo</span>](https://github.com/security-pride/GPTZoo)
