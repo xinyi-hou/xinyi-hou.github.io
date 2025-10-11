@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-# 🍦 About Me
+# About Me
 
 Hello, I am Xinyi Hou (侯心怡). I am currently pursuing my Ph.D. in the School of Cyber Science and Engineering at Huazhong University of Science and Technology (HUST), as a member of the **SECURITY PRIDE** Research Group (**Security**, **Pri**vacy, and **De**pendability in Emerging Software Systems), under the supervision of Prof. [Haoyu Wang](https://howiepku.github.io/). Previously, I received my B.Eng. degree at Northeastern University (NEU) in June 2023. 
 
@@ -17,7 +17,7 @@ My research interests include, but are not limited to, the **security of large l
 
 If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xinyihou@hust.edu.cn).
 
-# 🌷 News
+# News
 
 - [28 Jun 2025] Excited to announce the 1st International Workshop on Large Language Model Supply Chain Analysis ([LLMSC 2025](https://llmsc.github.io/)), co-located with [ISSTA 2025](https://conf.researchr.org/home/issta-2025)!
 - [26 Jun 2025] Excited to announce the 1st International Workshop on LLM App Store Analysis（[LLMapp](https://llmappworkshop.github.io/)）, co-located with [FSE 2025](https://conf.researchr.org/home/fse-2025)!
@@ -28,7 +28,7 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 - [28 Jun 2023] I received my B.Eng. degree at Northeastern University. 
 - [28 Sep 2022] I have become a member of the SECURITY PRIDE Research Group.
 
-# 📜 Publications 
+# Publications 
 
 **(\* Equal Contribution)**
 
@@ -89,12 +89,12 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
     <br>*<span style="color:#cd3278">\[MSR'24\]</span> The 21st IEEE/ACM International Conference on Mining Software Repositories* 
 
   
-# 📚 Education
+# Education
 
 * 2019.09 - 2023.06, B.Eng., Northeastern University, Shenyang, China.
 * 2023.09 till now, Ph.D., Huazhong University of Science and Technology, Wuhan, China.
 
-# 💼 Services
+# Services
 * **Journal Reviewer**
     <br>ACM Transactions on Software Engineering and Methodology (TOSEM), Automated Software Engineering (ASE), Empirical Software Engineering (EMSE)
 * **PC Member**
@@ -104,7 +104,7 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **Publicity & Web Chair**
     <br>LLMapp 2025 (co-located with FSE 2025), LLMSC 2025 (co-located with ISSTA 2025)
   
-# 🏆 Honors and Awards
+# Honors and Awards
 * 2023 - Outstanding Graduates of Liaoning Province
 * 2023 - Distinguished Undergraduate Thesis of NEU
 * 2022 - China National Scholarship
