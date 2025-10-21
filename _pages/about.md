@@ -105,12 +105,16 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
     <br>LLMapp 2025 (co-located with FSE 2025), LLMSC 2025 (co-located with ISSTA 2025)
   
 # Honors and Awards
-* 2023 - Outstanding Graduates of Liaoning Province
-* 2023 - Distinguished Undergraduate Thesis of NEU
-* 2022 - China National Scholarship
-* 2022 - First Class Annual Outstanding Student
-* 2020 - Inspur Scholarship  
-* 2020 - First Class Annual Outstanding Student
+* 2025 - China National Scholarship, Ministry of Education of P.R. China
+* 2025 - Merit Student, Huazhong University of Science and Technology
+* 2025 - Outstanding Graduate Student Scholarship, Huazhong University of Science and Technology
+* 2024 - Outstanding Graduate Student Scholarship, Huazhong University of Science and Technology
+* 2023 - Outstanding Graduates of Liaoning Province, Liaoning Provincial Department of Education
+* 2023 - Distinguished Undergraduate Thesis of NEU, Northeastern University
+* 2022 - China National Scholarship,  Ministry of Education of P.R. China
+* 2022 - First Class Annual Outstanding Student, Northeastern University
+* 2020 - Inspur Scholarship, Inspur Group Co., Ltd.
+* 2020 - First Class Annual Outstanding Student, Northeastern University
 
 <br>
 <br>
