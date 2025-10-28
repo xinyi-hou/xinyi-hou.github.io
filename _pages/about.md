@@ -69,6 +69,9 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2503.04596)
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
     <br>*<span style="color:#cd3278">\[FSEws2025\]</span> The Future Software Engineering Workshop, co-located with FSE 2025*
+* **TaintP2X: Detecting Taint-Style Prompt-to-Anything Injection Vulnerabilities in LLM-Integrated Applications**
+   <br>Junjie He*, Shenao Wang*, Yanjie Zhao, **Xinyi Hou**, Zhao Liu, Quanchen Zou, Haoyu Wang.
+   <br>*<span style="color:#cd3278">\[ICSE2026\]</span> The 48th IEEE/ACM International Conference on Software Engineering
 * **Large Language Model Supply Chain: A Research Agenda** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2024large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708531)
     <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang
     <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* 
