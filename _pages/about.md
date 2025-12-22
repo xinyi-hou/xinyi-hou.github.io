@@ -54,7 +54,7 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **On the (In)Security of LLM App Stores** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025insecurity.pdf) [<span class="doi">DOI</span>](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a298/26hiTDjKxoc) [<span class="repo">Repo</span>](https://github.com/security-pride/LLM-App-Security)
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
     <br>*<span style="color:#cd3278">\[S&P'25\]</span> The 46th IEEE Symposium on Security and Privacy*
-* **LLM App Store Analysis: A Vision and Roadmap**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2024llm.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708530)
+* **LLM App Store Analysis: A Vision and Roadmap**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2025llm.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708530)
     <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
     <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology*
 * **LLM App Squatting and Cloning** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/xie2024squatting.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3696630.3728532)  [<span class="repo">Repo</span>](https://github.com/security-pride/LLMappCrazy)
