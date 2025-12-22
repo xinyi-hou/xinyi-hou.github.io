@@ -75,13 +75,13 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **Large Language Model Supply Chain: A Research Agenda** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2024large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708531)
     <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang
     <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology* 
-* **GPT Store Mining and Analysis** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/su2025gpt.pdf)
+* **GPT Store Mining and Analysis** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/su2025gpt.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3755881.3755900) [<span class="repo">Repo</span>](https://github.com/security-pride/GPTStore-Mining)
     <br>Dongxun Su\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang
     <br>*<span style="color:#cd3278">\[Internetware'25\]</span> The 16th International Conference on Internetware*
 * **Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2502.20812)
     <br>Shenao Wang\*, Yanjie Zhao\*, Yinglin Xie, Zhao Liu, **Xinyi Hou**, Quanchen Zou, Haoyu Wang
     <br>*<span style="color:#cd3278">\[FSEws2025\]</span> The Future Software Engineering Workshop, co-located with FSE 2025*
-* **Bridging Design and Development with Automated Declarative UI Code Generation** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhou2024bridging.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3715726)
+* **Bridging Design and Development with Automated Declarative UI Code Generation** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhou2024bridging.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3715726) [<span class="repo">Repo</span>](https://github.com/security-pride/DeclarUI)
     <br>Ting Zhou\*, Yanjie Zhao\*, **Xinyi Hou**, Xiaoyu Sun, Kai Chen, Haoyu Wang
     <br>*<span style="color:#cd3278">\[FSE'25\]</span> The ACM International Conference on the Foundations of Software Engineering*
 * **Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2024models.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3691620.3695271) [<span class="repo">Repo</span>](https://github.com/security-pride/MalHug)
