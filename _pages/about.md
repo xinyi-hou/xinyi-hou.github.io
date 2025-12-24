@@ -53,7 +53,7 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **On the (In)Security of LLM App Stores** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025insecurity.pdf) [<span class="doi">DOI</span>](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a298/26hiTDjKxoc) [<span class="repo">Repo</span>](https://github.com/security-pride/LLM-App-Security)
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
     <br>*<span style="color:#cd3278">\[S&P 2025\]</span> The 46th IEEE Symposium on Security and Privacy*
-* **Unveiling the Landscape of LLM Deployment in the Wild: An Empirical Study** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2505.02502)
+* **Mapping the Landscape of LLM Deployment in the Wild: Prevalence, Patterns, and Perils**
     <br>**Xinyi Hou**\*, Jiahao Han\*, Yanjie Zhao, Shenao Wang, Haoyu Wang
     <br>*<span style="color:#cd3278">\[SIGMETRICS 2026\]</span> ACM Special Interest Group on Measurement and Evaluation*
 * **LLM App Store Analysis: A Vision and Roadmap**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2025llm.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708530)
