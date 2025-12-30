@@ -34,9 +34,6 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 
 ## <span style="color:grey">Preprint</span> 
 
-* **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025mcp_1.pdf)
-    <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
-
 * **LaQual: A Novel Framework for Automated Evaluation of LLM App Quality** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2025laqual.pdf)
     <br>Yan Wang, **Xinyi Hou**, Yanjie Zhao, Weiguo Lin, Haoyu Wang, Junjun Si
 * **Toward Understanding Bugs in Vector Database Management Systems** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/xie2025toward.pdf)
@@ -44,12 +41,14 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/rao2025software.pdf)
     <br>Hongzhou Rao*, Yanjie Zhao*, **Xinyi Hou**, Shenao Wang, Haoyu Wang
 
-
 ## <span style="color:grey">Peer-Reviewed</span>
 
 * **Large Language Models for Software Engineering: A Systematic Literature Review** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2024large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3695988) [<span class="repo">Repo</span>](https://github.com/xinyi-hou/LLM4SE_SLR)
   <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang
   <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology*
+* **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025mcp_1.pdf)
+    <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
+    <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology*
 * **On the (In)Security of LLM App Stores** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025insecurity.pdf) [<span class="doi">DOI</span>](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a298/26hiTDjKxoc) [<span class="repo">Repo</span>](https://github.com/security-pride/LLM-App-Security)
     <br>**Xinyi Hou**\*, Yanjie Zhao\*, Haoyu Wang
     <br>*<span style="color:#cd3278">\[S&P 2025\]</span> The 46th IEEE Symposium on Security and Privacy*
