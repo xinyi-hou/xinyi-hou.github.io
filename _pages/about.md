@@ -32,15 +32,6 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 
 **(\* Equal Contribution)**
 
-## <span style="color:grey">Preprint</span> 
-
-* **LaQual: A Novel Framework for Automated Evaluation of LLM App Quality** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2025laqual.pdf)
-    <br>Yan Wang, **Xinyi Hou**, Yanjie Zhao, Weiguo Lin, Haoyu Wang, Junjun Si
-* **Toward Understanding Bugs in Vector Database Management Systems** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/xie2025toward.pdf)
-    <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Shenao Wang, Kai Chen, Haoyu Wang
-* **Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/rao2025software.pdf)
-    <br>Hongzhou Rao*, Yanjie Zhao*, **Xinyi Hou**, Shenao Wang, Haoyu Wang
-
 ## <span style="color:grey">Peer-Reviewed</span>
 
 * **Large Language Models for Software Engineering: A Systematic Literature Review** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2024large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3695988) [<span class="repo">Repo</span>](https://github.com/xinyi-hou/LLM4SE_SLR)
@@ -91,6 +82,15 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wu2024chatgpt.pdf) [<span class="doi">DOI</span>](https://ieeexplore.ieee.org/abstract/document/10555800)
     <br>Liangxuan Wu, Yanjie Zhao, **Xinyi Hou**, Tianming Liu, Haoyu Wang
     <br>*<span style="color:#cd3278">\[MSR 2024\]</span> The 21st IEEE/ACM International Conference on Mining Software Repositories* 
+
+## <span style="color:grey">Preprint</span> 
+
+* **LaQual: A Novel Framework for Automated Evaluation of LLM App Quality** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2025laqual.pdf)
+    <br>Yan Wang, **Xinyi Hou**, Yanjie Zhao, Weiguo Lin, Haoyu Wang, Junjun Si
+* **Toward Understanding Bugs in Vector Database Management Systems** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/xie2025toward.pdf)
+    <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Shenao Wang, Kai Chen, Haoyu Wang
+* **Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/rao2025software.pdf)
+    <br>Hongzhou Rao*, Yanjie Zhao*, **Xinyi Hou**, Shenao Wang, Haoyu Wang
 
   
 # Education
