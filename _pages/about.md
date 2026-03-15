@@ -104,7 +104,7 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **PC Member**
     <br>LLMapp 2025 (co-located with FSE 2025)
 * **Sub-Reviewer**
-    <br>ISSTA’24, FSE’25, IMC’24/25, IWQoS’25, APSEC’24
+    <br>USENIX Security'26, SIGCOMM'26, WWW'26, ISSTA’24, FSE’25, IMC’24/25, IWQoS’25, APSEC’24
 * **Publicity & Web Chair**
     <br>LLMapp 2025 (co-located with FSE 2025), LLMSC 2025 (co-located with ISSTA 2025)
   
