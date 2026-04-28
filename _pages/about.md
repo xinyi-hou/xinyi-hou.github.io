@@ -19,7 +19,7 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 
 # News
 
-- [2026] Excited to announce the 2nd International Workshop on Large Language Model Supply Chain Analysis ([LLMSC 2026](https://llmsc.github.io/)), which will be co-located with [FSE 2026](https://conf.researchr.org/home/fse-2026)!
+- 🔝 Excited to announce the 2nd International Workshop on Large Language Model Supply Chain Analysis ([LLMSC 2026](https://llmsc.github.io/)), which will be co-located with [FSE 2026](https://conf.researchr.org/home/fse-2026)!
 - [28 Jun 2025] Excited to announce the 1st International Workshop on Large Language Model Supply Chain Analysis ([LLMSC 2025](https://llmsc.github.io/)), co-located with [ISSTA 2025](https://conf.researchr.org/home/issta-2025)!
 - [26 Jun 2025] Excited to announce the 1st International Workshop on LLM App Store Analysis（[LLMapp](https://llmappworkshop.github.io/)）, co-located with [FSE 2025](https://conf.researchr.org/home/fse-2025)!
 - [15-17 Nov 2024] We won the third prize in the Software Research Prototype System Competition of ChinaSoft 2024.
