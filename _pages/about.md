@@ -43,6 +43,8 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
     <br>Yan Wang, **Xinyi Hou**, Yanjie Zhao, Weiguo Lin, Haoyu Wang, Junjun Si
 * **Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/rao2025software.pdf)
     <br>Hongzhou Rao\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang
+* **SMCP: Secure Model Context Protocol** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2602.01129)
+    <br>**Xinyi Hou\***, Shenao Wang\*, Yifan Zhang, Ziluo Xue, Yanjie Zhao, Cai Fu, Haoyu Wang
 
 
 ## <span style="color:grey">Peer-Reviewed</span>
