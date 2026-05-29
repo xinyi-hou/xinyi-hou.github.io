@@ -36,13 +36,13 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 ## <span style="color:grey">Preprint</span> 
 
 * **Demystifying and Detecting Agentic Workflow Injection Vulnerabilities in GitHub Actions** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2605.07135)
-    <br>Shenao Wang*, **Xinyi Hou**\*, Zhao Liu, Yanjie Zhao, Xiao Cheng, Quanchen Zou, Xiangzheng Zhang, Haoyu Wang
+    <br>Shenao Wang\*, **Xinyi Hou**\*, Zhao Liu, Yanjie Zhao, Xiao Cheng, Quanchen Zou, Xiangzheng Zhang, Haoyu Wang
 * **Unsafe by Flow: Uncovering Bidirectional Data-Flow Risks in MCP Ecosystem** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2605.07836)
     <br>**Xinyi Hou**, Yanjie Zhao, Haoyu Wang
 * **LaQual: A Novel Framework for Automated Evaluation of LLM App Quality** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2025laqual.pdf)
     <br>Yan Wang, **Xinyi Hou**, Yanjie Zhao, Weiguo Lin, Haoyu Wang, Junjun Si
 * **Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/rao2025software.pdf)
-    <br>Hongzhou Rao*, Yanjie Zhao*, **Xinyi Hou**, Shenao Wang, Haoyu Wang
+    <br>Hongzhou Rao\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang
 
 
 ## <span style="color:grey">Peer-Reviewed</span>
@@ -78,10 +78,10 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
     <br>Yinglin Xie\*, **Xinyi Hou**\*, Yanjie Zhao, Shenao Wang, Kai Chen, Haoyu Wang
     <br>*<span style="color:#cd3278">\[Internetware 2026\]</span> The 17th International Conference on Internetware*
 * **TaintP2X: Detecting Taint-Style Prompt-to-Anything Injection Vulnerabilities in LLM-Integrated Applications** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/icse26taintp2x.pdf)
-   <br>Junjie He*, Shenao Wang*, Yanjie Zhao, **Xinyi Hou**, Zhao Liu, Quanchen Zou, Haoyu Wang.
+   <br>Junjie He\*, Shenao Wang\*, Yanjie Zhao, **Xinyi Hou**, Zhao Liu, Quanchen Zou, Haoyu Wang.
    <br>*<span style="color:#cd3278">\[ICSE 2026\]</span> The 48th IEEE/ACM International Conference on Software Engineering*
 * **Survey of Storage Mechanism Security Threats for Large Language Models** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2026large.pdf)
-   <br>Liu Wang*, Shenao Wang*, **Xinyi Hou**, Jian Zhao, Rongxin Wu, Qiao Xiang, Yanjie Zhao, Yi Wang
+   <br>Liu Wang\*, Shenao Wang\*, **Xinyi Hou**, Jian Zhao, Rongxin Wu, Qiao Xiang, Yanjie Zhao, Yi Wang
    <br>*<span style="color:#cd3278">\[JCRD 2026\]</span> Journal of Computer Research and Development, in Chinese*
 * **Large Language Model Supply Chain: A Research Agenda** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2024large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708531)
     <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang
