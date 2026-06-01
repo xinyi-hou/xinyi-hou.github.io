@@ -121,7 +121,7 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **Sub-Reviewer**
     <br>USENIX Security'26, ASE'26, SIGCOMM'26, WWW'26, ISSTA’24, FSE’25, IMC’24/25, IWQoS’25, APSEC’24
 * **Publicity & Web Chair**
-    <br>LLMapp 2025 (co-located with FSE 2025), LLMSC 2025 (co-located with ISSTA 2025)
+    <br>LLMSC 2026 (co-located with FSE 2026), LLMapp 2025 (co-located with FSE 2025), LLMSC 2025 (co-located with ISSTA 2025)
   
 # Honors and Awards
 * 2025 - National Scholarship, Ministry of Education of P.R. China
