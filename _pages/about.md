@@ -39,8 +39,6 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
     <br>Shenao Wang\*, **Xinyi Hou**\*, Zhao Liu, Yanjie Zhao, Xiao Cheng, Quanchen Zou, Xiangzheng Zhang, Haoyu Wang
 * **Unsafe by Flow: Uncovering Bidirectional Data-Flow Risks in MCP Ecosystem** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2605.07836)
     <br>**Xinyi Hou**, Yanjie Zhao, Haoyu Wang
-* **LaQual: A Novel Framework for Automated Evaluation of LLM App Quality** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2025laqual.pdf)
-    <br>Yan Wang, **Xinyi Hou**, Yanjie Zhao, Weiguo Lin, Haoyu Wang, Junjun Si
 * **Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/rao2025software.pdf)
     <br>Hongzhou Rao\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang
 * **SMCP: Secure Model Context Protocol** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2602.01129)
@@ -85,6 +83,9 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **Survey of Storage Mechanism Security Threats for Large Language Models** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2026large.pdf)
    <br>Liu Wang\*, Shenao Wang\*, **Xinyi Hou**, Jian Zhao, Rongxin Wu, Qiao Xiang, Yanjie Zhao, Yi Wang
    <br>*<span style="color:#cd3278">\[JCRD 2026\]</span> Journal of Computer Research and Development, in Chinese*
+* **LaQual: A Novel Framework for Automated Evaluation of LLM App Quality** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2025laqual.pdf)
+    <br>Yan Wang, **Xinyi Hou**, Yanjie Zhao, Weiguo Lin, Haoyu Wang, Junjun Si
+    <br>*<span style="color:#cd3278">\[JSS 2026\]</span> Journal of Systems and Software*
 * **Large Language Model Supply Chain: A Research Agenda** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2024large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708531)
     <br>Shenao Wang, Yanjie Zhao, **Xinyi Hou**, Haoyu Wang
     <br>*<span style="color:#cd3278">\[TOSEM\]</span> ACM Transactions on Software Engineering and Methodology*
