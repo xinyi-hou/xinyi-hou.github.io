@@ -99,7 +99,7 @@ If you would like to reach me, please email [xinyihou AT hust DOT edu DOT cn](xi
 * **Survey of Storage Mechanism Security Threats for Large Language Models** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2026large.pdf)
    <br>Liu Wang\*, Shenao Wang\*, **Xinyi Hou**, Jian Zhao, Rongxin Wu, Qiao Xiang, Yanjie Zhao, Yi Wang
    <br>*<span style="color:#cd3278">\[JCRD 2026\]</span> Journal of Computer Research and Development, in Chinese*
-* **LaQual: A Novel Framework for Automated Evaluation of LLM App Quality** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2025laqual.pdf)
+* **LaQual: An Automated Framework for LLM App Quality Evaluation** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2025laqual.pdf)
     <br>Yan Wang, **Xinyi Hou**, Yanjie Zhao, Weiguo Lin, Haoyu Wang, Junjun Si
     <br>*<span style="color:#cd3278">\[JSS 2026\]</span> Journal of Systems and Software*
 * **Large Language Model Supply Chain: A Research Agenda** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2024large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708531)
