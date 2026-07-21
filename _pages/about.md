@@ -37,6 +37,8 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 
 * **When Agents Do Not Stop: Uncovering Infinite Agentic Loops in LLM Agents** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2607.01641)
     <br>**Xinyi Hou**, Shenao Wang, Yanjie Zhao, Haoyu Wang
+  * **AgentFlow: Building Agent Dependency Graphs for Static Analysis of Agent Programs** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2607.01640)
+    <br>Shenao Wang, **Xinyi Hou**, Yanjie Zhao, Xiao Cheng, Haoyu Wang
 * **Demystifying and Detecting Agentic Workflow Injection Vulnerabilities in GitHub Actions** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2605.07135)
     <br>Shenao Wang\*, **Xinyi Hou**\*, Zhao Liu, Yanjie Zhao, Xiao Cheng, Quanchen Zou, Xiangzheng Zhang, Haoyu Wang
 * **Unsafe by Flow: Uncovering Bidirectional Data-Flow Risks in MCP Ecosystem** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2605.07836)
