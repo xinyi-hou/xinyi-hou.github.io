@@ -43,8 +43,6 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
     <br>Shenao Wang\*, **Xinyi Hou**\*, Zhao Liu, Yanjie Zhao, Xiao Cheng, Quanchen Zou, Xiangzheng Zhang, Haoyu Wang
 * **Unsafe by Flow: Uncovering Bidirectional Data-Flow Risks in MCP Ecosystem** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2605.07836)
     <br>**Xinyi Hou**, Yanjie Zhao, Haoyu Wang
-* **Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/rao2025software.pdf)
-    <br>Hongzhou Rao\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang
 
 ## <span style="color:grey">Journal</span>
 * **Large Language Models for Software Engineering: A Systematic Literature Review** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2024large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3695988) [<span class="repo">Repo</span>](https://github.com/xinyi-hou/LLM4SE_SLR)
@@ -56,6 +54,9 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 * **LLM App Store Analysis: A Vision and Roadmap**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2025llm.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708530)
     <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
     <br>*<span style="color:#cd3278">\[TOSEM 2025\]</span> ACM Transactions on Software Engineering and Methodology*
+* **Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/rao2025software.pdf)
+    <br>Hongzhou Rao\*, Yanjie Zhao\*, **Xinyi Hou**, Shenao Wang, Haoyu Wang
+    <br>*<span style="color:#cd3278">\[TOSEM 2026\]</span> ACM Transactions on Software Engineering and Methodology* 
 * **Survey of Storage Mechanism Security Threats for Large Language Models** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/wang2026large.pdf)
    <br>Liu Wang\*, Shenao Wang\*, **Xinyi Hou**, Jian Zhao, Rongxin Wu, Qiao Xiang, Yanjie Zhao, Yi Wang
    <br>*<span style="color:#cd3278">\[JCRD 2026\]</span> Journal of Computer Research and Development, in Chinese*
