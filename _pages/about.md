@@ -120,13 +120,13 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 
 # Services
 * **Journal Reviewer**
-    <br>IEEE Transactions on Dependable and Secure Computing (TDSC), ACM Transactions on Software Engineering and Methodology (TOSEM), Automated Software Engineering (ASE), Empirical Software Engineering (EMSE)
+    <br>TDSC, TSE, TOSEM, CSUR, ASE, EMSE, TOIT
 * **PC Member**
-    <br>LLMapp 2025 (co-located with FSE 2025)
+    <br>MSR 2027, LLMapp 2025 (co-located with FSE 2025)
 * **Sub-Reviewer**
-    <br>USENIX Security'26, ASE'26, SIGCOMM'26, WWW'26, ISSTA’24, FSE’25, IMC’24/25, IWQoS’25, APSEC’24
+    <br>USENIX Security'27/26, FSE'27/26/25, SIGMETRICS’27, ICSE'27 ASE'26, SIGCOMM'26, WWW'26, ISSTA’24, IMC’25/24, IWQoS’25, APSEC’24
 * **Publicity & Web Chair**
-    <br>LLMSC 2026 (co-located with FSE 2026), LLMapp 2025 (co-located with FSE 2025), LLMSC 2025 (co-located with ISSTA 2025)
+    <br>LLMSC 2027 (co-located with ICSE 2027), LLMSC 2026 (co-located with FSE 2026), LLMapp 2025 (co-located with FSE 2025), LLMSC 2025 (co-located with ISSTA 2025)
   
 # Honors and Awards
 * 2025 - National Scholarship, Ministry of Education of P.R. China
