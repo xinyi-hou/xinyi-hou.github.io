@@ -131,6 +131,8 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
     <br>LLMSC 2027 (co-located with ICSE 2027), LLMSC 2026 (co-located with FSE 2026), LLMapp 2025 (co-located with FSE 2025), LLMSC 2025 (co-located with ISSTA 2025)
   
 # Honors and Awards
+* 2026 - Merit Student, Huazhong University of Science and Technology
+* 2026 - Outstanding Graduate Student Scholarship, Huazhong University of Science and Technology
 * 2025 - National Scholarship, Ministry of Education of P.R. China
 * 2025 - Merit Student, Huazhong University of Science and Technology
 * 2025 - Outstanding Graduate Student Scholarship, Huazhong University of Science and Technology
