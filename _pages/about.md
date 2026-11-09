@@ -47,10 +47,12 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 ## <span style="color:grey">Journal</span>
 * **Large Language Models for Software Engineering: A Systematic Literature Review** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2024large.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3695988) [<span class="repo">Repo</span>](https://github.com/xinyi-hou/LLM4SE_SLR)
   <br>**Xinyi Hou**\*, Yanjie Zhao\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang
-  <br>*<span style="color:#cd3278">\[TOSEM 2024\]</span> ACM Transactions on Software Engineering and Methodology*  **<span style="color:#CD2626">2300+ Citations</span>**
+  <br>*<span style="color:#cd3278">\[TOSEM 2024\]</span> ACM Transactions on Software Engineering and Methodology*
+  <br>**<span style="color:#CD2626">TOSEM No. 1 in All-Time Downloads | 1 of 4 TOSEM Featured Articles | 2,700+ Google Scholar Citations</span>**
 * **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/hou2025mcp_1.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3796519) 
     <br>**Xinyi Hou**, Yanjie Zhao, Shenao Wang, Haoyu Wang
-    <br>*<span style="color:#cd3278">\[TOSEM 2026\]</span> ACM Transactions on Software Engineering and Methodology* **<span style="color:#CD2626">800+ Citations</span>**
+    <br>*<span style="color:#cd3278">\[TOSEM 2026\]</span> ACM Transactions on Software Engineering and Methodology*
+    <br>**<span style="color:#CD2626">1 of 4 TOSEM Featured Articles | 1,000+ Google Scholar Citations</span>**
 * **LLM App Store Analysis: A Vision and Roadmap**  [<span class="pdf">PDF</span>](https://xinyi-hou.github.io/files/zhao2025llm.pdf) [<span class="doi">DOI</span>](https://dl.acm.org/doi/10.1145/3708530)
     <br>Yanjie Zhao, **Xinyi Hou**, Shenao Wang, Haoyu Wang
     <br>*<span style="color:#cd3278">\[TOSEM 2025\]</span> ACM Transactions on Software Engineering and Methodology*
