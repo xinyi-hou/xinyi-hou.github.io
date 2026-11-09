@@ -18,8 +18,6 @@ My research interests include, but are not limited to, the **security of large l
 If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust.edu.cn).
 
 # News
-
-# News
 - 🔝 Excited to announce the 3rd International Workshop on Large Language Model Supply Chain Analysis ([LLMSC 2027](https://llmsc.github.io/)), co-located with [ICSE 2027](https://conf.researchr.org/home/icse-2027) in Dublin, Ireland!
 - [18 Aug 2026] I gave an invited talk on **"Security of Ubiquitous Agentic Systems: Challenges, Research, and Practice"** at the CCF-INFORSEC "Meet the Mentors" Workshop in Tianjin, China. [[News]](https://mp.weixin.qq.com/s/eY6cHdDiL3sSe6XTL-7VyQ)
 - [5 Jul 2026] Excited to announce the 2nd International Workshop on Large Language Model Supply Chain Analysis ([LLMSC 2026](https://llmsc.github.io/)), co-located with [FSE 2026](https://conf.researchr.org/home/fse-2026) in Montreal, Canada!
