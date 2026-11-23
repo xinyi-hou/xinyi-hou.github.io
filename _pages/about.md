@@ -126,11 +126,13 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 * **Journal Reviewer**
     <br>TDSC, TSE, TOSEM, CSUR, ASE, EMSE, TOIT
 * **PC Member**
-    <br>MSR 2027, LLMapp 2025 (co-located with FSE 2025)
+    <br>ISSRE'27, MSR'27, [AGENT‘27@ICSE](https://conf.researchr.org/home/icse-2027/agent-2027), [LLMapp'25@FSE](https://llmappworkshop.github.io/)
+* **Artifact Evaluation Reviewer**
+    <br>CCS'26
 * **Sub-Reviewer**
     <br>USENIX Security'27/26, FSE'27/26/25, SIGMETRICS’27, ICSE'27 ASE'26, SIGCOMM'26, WWW'26, ISSTA’24, IMC’25/24, IWQoS’25, APSEC’24
 * **Publicity & Web Chair**
-    <br>LLMSC 2027 (co-located with ICSE 2027), LLMSC 2026 (co-located with FSE 2026), LLMapp 2025 (co-located with FSE 2025), LLMSC 2025 (co-located with ISSTA 2025)
+    <br>[LLMSC'27@ICSE](https://llmsc.github.io/archive/27/), [LLMSC'25@FSE](https://llmsc.github.io/archive/26/), [LLMapp'25@FSE](https://llmappworkshop.github.io/), [LLMSC'25@ISSTA](https://llmsc.github.io/archive/25/)
   
 # Honors and Awards
 * 2026 - Merit Student, Huazhong University of Science and Technology
