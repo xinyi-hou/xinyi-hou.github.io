@@ -126,7 +126,7 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 * **Journal Reviewer**
     <br>TDSC, TSE, TOSEM, CSUR, ASE, EMSE, TOIT
 * **PC Member**
-    <br>ISSRE'27, MSR'27, [AGENT‘27@ICSE](https://conf.researchr.org/home/icse-2027/agent-2027), [LLMapp'25@FSE](https://llmappworkshop.github.io/)
+    <br>MSR'27, [AGENT‘27@ICSE](https://conf.researchr.org/home/icse-2027/agent-2027), [LLMapp'25@FSE](https://llmappworkshop.github.io/)
 * **Artifact Evaluation Reviewer**
     <br>CCS'26
 * **Sub-Reviewer**
