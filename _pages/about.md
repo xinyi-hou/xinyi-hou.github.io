@@ -37,6 +37,8 @@ If you would like to reach me, please email [xinyihou@hust.edu.cn](xinyihou@hust
 
 ## <span style="color:grey">Preprint</span> 
 
+* **Demystifying Real-world LLM Service Freeloading** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2611.33218v1)
+    <br>**Xinyi Hou**, Shenao Wang, Wenhui Pan, Yanjie Zhao, Haoyu Wang
 * **When Agents Do Not Stop: Uncovering Infinite Agentic Loops in LLM Agents** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2607.01641)
     <br>**Xinyi Hou**, Shenao Wang, Yanjie Zhao, Haoyu Wang
 * **AgentFlow: Building Agent Dependency Graphs for Static Analysis of Agent Programs** [<span class="pdf">PDF</span>](https://arxiv.org/pdf/2607.01640)
